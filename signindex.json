@@ -1,0 +1,8482 @@
+[
+ {
+   "SignIndex": 1002,
+   "Arrow": "Left",
+   "CompleteText": "2 HOUR METER PARKING, 8AM-5PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1003,
+   "Arrow": "Right",
+   "CompleteText": "2 HOUR METER PARKING, 8AM-5PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1004,
+   "Arrow": "Right",
+   "CompleteText": "4 HOUR METER PARKING, 8AM-5PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1005,
+   "Arrow": "Left",
+   "CompleteText": "4 HOUR METER PARKING, 8AM-5PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1006,
+   "Arrow": "Both",
+   "CompleteText": "METER PARKING, 8AM-3PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1007,
+   "Arrow": "Left",
+   "CompleteText": "METER PARKING, 8AM-3PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1008,
+   "Arrow": "Right",
+   "CompleteText": "METER PARKING, 8AM-3PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1009,
+   "Arrow": "Both",
+   "CompleteText": "METER PARKING, 8AM-5PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1010,
+   "Arrow": "Left",
+   "CompleteText": "METER PARKING, 8AM-5PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1011,
+   "Arrow": "Right",
+   "CompleteText": "METER PARKING, 8AM-5PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1012,
+   "Arrow": "Both",
+   "CompleteText": "1.5 HOUR PARKING, 9AM-6PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1013,
+   "Arrow": "Left",
+   "CompleteText": "1.5 HOUR PARKING, 9AM-6PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1014,
+   "Arrow": "Right",
+   "CompleteText": "1.5 HOUR PARKING, 9AM-6PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1015,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 100"
+ },
+ {
+   "SignIndex": 1016,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 200"
+ },
+ {
+   "SignIndex": 1017,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 300"
+ },
+ {
+   "SignIndex": 1018,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 301"
+ },
+ {
+   "SignIndex": 1019,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 302"
+ },
+ {
+   "SignIndex": 1020,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 400"
+ },
+ {
+   "SignIndex": 1021,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 500"
+ },
+ {
+   "SignIndex": 1022,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 600"
+ },
+ {
+   "SignIndex": 1023,
+   "Arrow": "Right",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 100"
+ },
+ {
+   "SignIndex": 1024,
+   "Arrow": "Left",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 100"
+ },
+ {
+   "SignIndex": 1025,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 100"
+ },
+ {
+   "SignIndex": 1026,
+   "Arrow": "Right",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 200"
+ },
+ {
+   "SignIndex": 1027,
+   "Arrow": "Left",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 200"
+ },
+ {
+   "SignIndex": 1028,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 200"
+ },
+ {
+   "SignIndex": 1029,
+   "Arrow": "Right",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 300"
+ },
+ {
+   "SignIndex": 1030,
+   "Arrow": "Left",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone  300"
+ },
+ {
+   "SignIndex": 1031,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 300"
+ },
+ {
+   "SignIndex": 1032,
+   "Arrow": "Right",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 301"
+ },
+ {
+   "SignIndex": 1033,
+   "Arrow": "Left",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone  301"
+ },
+ {
+   "SignIndex": 1034,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 301"
+ },
+ {
+   "SignIndex": 1035,
+   "Arrow": "Right",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 302"
+ },
+ {
+   "SignIndex": 1036,
+   "Arrow": "Left",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone  302"
+ },
+ {
+   "SignIndex": 1037,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 302"
+ },
+ {
+   "SignIndex": 1038,
+   "Arrow": "Right",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 400"
+ },
+ {
+   "SignIndex": 1039,
+   "Arrow": "Left",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 400"
+ },
+ {
+   "SignIndex": 1040,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 400"
+ },
+ {
+   "SignIndex": 1041,
+   "Arrow": "Right",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 500"
+ },
+ {
+   "SignIndex": 1042,
+   "Arrow": "Left",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 500"
+ },
+ {
+   "SignIndex": 1043,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 500"
+ },
+ {
+   "SignIndex": 1044,
+   "Arrow": "Right",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 600"
+ },
+ {
+   "SignIndex": 1045,
+   "Arrow": "Left",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 600"
+ },
+ {
+   "SignIndex": 1046,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 600"
+ },
+ {
+   "SignIndex": 1047,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 100 Parking Only"
+ },
+ {
+   "SignIndex": 1048,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 200 Parking Only"
+ },
+ {
+   "SignIndex": 1049,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 300 Parking Only"
+ },
+ {
+   "SignIndex": 1050,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 301 Parking Only"
+ },
+ {
+   "SignIndex": 1051,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 302 Parking Only"
+ },
+ {
+   "SignIndex": 1052,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 400 Parking Only"
+ },
+ {
+   "SignIndex": 1053,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 500 Parking Only"
+ },
+ {
+   "SignIndex": 1054,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 600 Parking Only"
+ },
+ {
+   "SignIndex": 1055,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, SINGLE SPACE METER PARKING Zone 100"
+ },
+ {
+   "SignIndex": 1056,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, SINGLE SPACE METER PARKING Zone 200"
+ },
+ {
+   "SignIndex": 1057,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, SINGLE SPACE METER PARKING Zone 300"
+ },
+ {
+   "SignIndex": 1058,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, SINGLE SPACE METER PARKING Zone 301"
+ },
+ {
+   "SignIndex": 1059,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, SINGLE SPACE METER PARKING Zone 302"
+ },
+ {
+   "SignIndex": 1060,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, SINGLE SPACE METER PARKING Zone 400"
+ },
+ {
+   "SignIndex": 1061,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, SINGLE SPACE METER PARKING Zone 500"
+ },
+ {
+   "SignIndex": 1062,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, SINGLE SPACE METER PARKING Zone 600"
+ },
+ {
+   "SignIndex": 1063,
+   "Arrow": "Both",
+   "CompleteText": "1 HOUR PARKING 7AM - 9PM MON - FRI "
+ },
+ {
+   "SignIndex": 1064,
+   "Arrow": "Left",
+   "CompleteText": "1 HOUR PARKING 7AM - 9PM MON - FRI "
+ },
+ {
+   "SignIndex": 1065,
+   "Arrow": "Right",
+   "CompleteText": "1 HOUR PARKING 7AM - 9PM MON - FRI "
+ },
+ {
+   "SignIndex": 1066,
+   "Arrow": "Both",
+   "CompleteText": "1 HOUR PARKING 8AM - 5PM MON - FRI "
+ },
+ {
+   "SignIndex": 1067,
+   "Arrow": "Left",
+   "CompleteText": "1 HOUR PARKING 8AM - 5PM MON - FRI  "
+ },
+ {
+   "SignIndex": 1068,
+   "Arrow": "Right",
+   "CompleteText": "1 HOUR PARKING 8AM - 5PM MON - FRI "
+ },
+ {
+   "SignIndex": 1069,
+   "Arrow": "Both",
+   "CompleteText": "30 MINUTE PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1070,
+   "Arrow": "Left",
+   "CompleteText": "30 MINUTE PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1071,
+   "Arrow": "Right",
+   "CompleteText": "30 MINUTE PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1072,
+   "Arrow": "Both",
+   "CompleteText": "30 MIN PARKING 9AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1073,
+   "Arrow": "Left",
+   "CompleteText": "30 MIN PARKING 9AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1074,
+   "Arrow": "Right",
+   "CompleteText": "30 MIN PARKING 9AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1075,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING"
+ },
+ {
+   "SignIndex": 1076,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING"
+ },
+ {
+   "SignIndex": 1077,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING"
+ },
+ {
+   "SignIndex": 1078,
+   "Arrow": "Both",
+   "CompleteText": "4 HOUR METER PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1079,
+   "Arrow": "Left",
+   "CompleteText": "4 HOUR METER PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1080,
+   "Arrow": "Right",
+   "CompleteText": "4 HOUR METER PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1081,
+   "Arrow": "Both",
+   "CompleteText": "30 MIN PARKING 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1082,
+   "Arrow": "Left",
+   "CompleteText": "30 MIN PARKING 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1083,
+   "Arrow": "Right",
+   "CompleteText": "30 MIN PARKING 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1084,
+   "Arrow": "Both",
+   "CompleteText": "METER PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1085,
+   "Arrow": "Left",
+   "CompleteText": "METER PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1086,
+   "Arrow": "Right",
+   "CompleteText": "METER PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1087,
+   "Arrow": "Both",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON-SAT"
+ },
+ {
+   "SignIndex": 1088,
+   "Arrow": "Left",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON-SAT"
+ },
+ {
+   "SignIndex": 1089,
+   "Arrow": "Right",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON-SAT"
+ },
+ {
+   "SignIndex": 1090,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, PAY HERE TO PARK"
+ },
+ {
+   "SignIndex": 1091,
+   "Arrow": "Both",
+   "CompleteText": "2 HOUR METER PARKING, 8AM-5PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1092,
+   "Arrow": "Both",
+   "CompleteText": "4 HOUR METER PARKING, 8AM-5PM, MON-FRI"
+ },
+ {
+   "SignIndex": 1093,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1094,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1095,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1096,
+   "Arrow": "Both",
+   "CompleteText": "4 HR PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1097,
+   "Arrow": "Left",
+   "CompleteText": "4 HR PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1098,
+   "Arrow": "Right",
+   "CompleteText": "4 HR PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1099,
+   "Arrow": "Both",
+   "CompleteText": "HOUR AND A HALF PARKING UNLOADING ZONE 7AM - 6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1100,
+   "Arrow": "Left",
+   "CompleteText": "HOUR AND A HALF PARKING UNLOADING ZONE 7AM - 6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1101,
+   "Arrow": "Right",
+   "CompleteText": "HOUR AND A HALF PARKING UNLOADING ZONE 7AM - 6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1102,
+   "Arrow": "Both",
+   "CompleteText": "PARK PARALLEL"
+ },
+ {
+   "SignIndex": 1103,
+   "Arrow": "Left",
+   "CompleteText": "PARK PARALLEL"
+ },
+ {
+   "SignIndex": 1104,
+   "Arrow": "Right",
+   "CompleteText": "PARK PARALLEL"
+ },
+ {
+   "SignIndex": 1105,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1106,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1107,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1108,
+   "Arrow": "Both",
+   "CompleteText": "HOUR AND A HALF PARKING MON-SAT"
+ },
+ {
+   "SignIndex": 1109,
+   "Arrow": "Left",
+   "CompleteText": "HOUR AND A HALF PARKING MON-SAT"
+ },
+ {
+   "SignIndex": 1110,
+   "Arrow": "Right",
+   "CompleteText": "HOUR AND A HALF PARKING MON-SAT"
+ },
+ {
+   "SignIndex": 1111,
+   "Arrow": "Both",
+   "CompleteText": "METER PARKING 9AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1112,
+   "Arrow": "Left",
+   "CompleteText": "METER PARKING 9AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1113,
+   "Arrow": "Right",
+   "CompleteText": "METER PARKING 9AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1114,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON-FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1115,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON-FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1116,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON-FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1117,
+   "Arrow": "Right",
+   "CompleteText": "PAY BY PLATE ZONE 103"
+ },
+ {
+   "SignIndex": 1118,
+   "Arrow": "Left",
+   "CompleteText": "PAY BY PLATE ZONE 103"
+ },
+ {
+   "SignIndex": 1119,
+   "Arrow": "Down",
+   "CompleteText": "PAY BY PLATE ZONE 103"
+ },
+ {
+   "SignIndex": 1120,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 103"
+ },
+ {
+   "SignIndex": 1121,
+   "Arrow": "Both",
+   "CompleteText": "METER PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1122,
+   "Arrow": "Left",
+   "CompleteText": "METER PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1123,
+   "Arrow": "Right",
+   "CompleteText": "METER PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1124,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 303"
+ },
+ {
+   "SignIndex": 1125,
+   "Arrow": "Both",
+   "CompleteText": "20 MIN METER PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1126,
+   "Arrow": "Left",
+   "CompleteText": "20 MIN METER PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1127,
+   "Arrow": "Right",
+   "CompleteText": "20 MIN METER PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1128,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING 8AM - 5:30PM MON-SAT"
+ },
+ {
+   "SignIndex": 1129,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING 8AM - 5:30PM MON-SAT"
+ },
+ {
+   "SignIndex": 1130,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING 8AM - 5:30PM MON-SAT"
+ },
+ {
+   "SignIndex": 1131,
+   "Arrow": "Both",
+   "CompleteText": "HOUR AND A HALF PARKING 8AM-9PM MON - SUN"
+ },
+ {
+   "SignIndex": 1132,
+   "Arrow": "Left",
+   "CompleteText": "HOUR AND A HALF PARKING 8AM-9PM MON - SUN"
+ },
+ {
+   "SignIndex": 1133,
+   "Arrow": "Right",
+   "CompleteText": "HOUR AND A HALF PARKING 8AM-9PM MON - SUN"
+ },
+ {
+   "SignIndex": 1134,
+   "Arrow": "Both",
+   "CompleteText": "4 HOUR METER PARKING 8AM-6PM MON - FRI"
+ },
+ {
+   "SignIndex": 1135,
+   "Arrow": "Left",
+   "CompleteText": "4 HOUR METER PARKING 8AM-6PM MON - FRI"
+ },
+ {
+   "SignIndex": 1136,
+   "Arrow": "Right",
+   "CompleteText": "4 HOUR METER PARKING 8AM-6PM MON - FRI"
+ },
+ {
+   "SignIndex": 1137,
+   "Arrow": "Both",
+   "CompleteText": "2 HOUR PARKING 8AM-6PM MON - FRI"
+ },
+ {
+   "SignIndex": 1138,
+   "Arrow": "Left",
+   "CompleteText": "2 HOUR PARKING 8AM-6PM MON - FRI"
+ },
+ {
+   "SignIndex": 1139,
+   "Arrow": "Right",
+   "CompleteText": "2 HOUR PARKING 8AM-6PM MON - FRI"
+ },
+ {
+   "SignIndex": 1140,
+   "Arrow": "Right",
+   "CompleteText": "PAY BY PLATE ZONE 305"
+ },
+ {
+   "SignIndex": 1141,
+   "Arrow": "Left",
+   "CompleteText": "PAY BY PLATE ZONE 305"
+ },
+ {
+   "SignIndex": 1142,
+   "Arrow": "Down",
+   "CompleteText": "PAY BY PLATE ZONE 305"
+ },
+ {
+   "SignIndex": 1143,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 305"
+ },
+ {
+   "SignIndex": 1144,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING 7:30AM-5:30PM MON - FRI"
+ },
+ {
+   "SignIndex": 1145,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING 7:30AM-5:30PM MON - FRI"
+ },
+ {
+   "SignIndex": 1146,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING 7:30AM-5:30PM MON - FRI"
+ },
+ {
+   "SignIndex": 1147,
+   "Arrow": "Right",
+   "CompleteText": "PAY BY PLATE ZONE 503"
+ },
+ {
+   "SignIndex": 1148,
+   "Arrow": "Left",
+   "CompleteText": "PAY BY PLATE ZONE 503"
+ },
+ {
+   "SignIndex": 1149,
+   "Arrow": "Down",
+   "CompleteText": "PAY BY PLATE ZONE 503"
+ },
+ {
+   "SignIndex": 1150,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 503"
+ },
+ {
+   "SignIndex": 1151,
+   "Arrow": "Both",
+   "CompleteText": "90 MIN PARKING MON-FRI 9AM-6PM ALL ROADS WASHINGTON PARK"
+ },
+ {
+   "SignIndex": 1152,
+   "Arrow": "Left",
+   "CompleteText": "90 MIN PARKING MON-FRI 9AM-6PM ALL ROADS WASHINGTON PARK"
+ },
+ {
+   "SignIndex": 1153,
+   "Arrow": "Right",
+   "CompleteText": "90 MIN PARKING MON-FRI 9AM-6PM ALL ROADS WASHINGTON PARK"
+ },
+ {
+   "SignIndex": 1154,
+   "Arrow": "None",
+   "CompleteText": "90 MIN PARKING MON-FRI 9AM-6PM ALL ROADS WASHINGTON PARK"
+ },
+ {
+   "SignIndex": 1155,
+   "Arrow": "Both",
+   "CompleteText": "30 MIN PARKING MON-SAT 9AM-5PM"
+ },
+ {
+   "SignIndex": 1156,
+   "Arrow": "Left",
+   "CompleteText": "30 MIN PARKING MON-SAT 9AM-5PM"
+ },
+ {
+   "SignIndex": 1157,
+   "Arrow": "Right",
+   "CompleteText": "30 MIN PARKING MON-SAT 9AM-5PM"
+ },
+ {
+   "SignIndex": 1158,
+   "Arrow": "Both",
+   "CompleteText": "METER PARKING 9AM-3PM MON-FRI "
+ },
+ {
+   "SignIndex": 1159,
+   "Arrow": "Left",
+   "CompleteText": "METER PARKING 9AM-3PM MON-FRI "
+ },
+ {
+   "SignIndex": 1160,
+   "Arrow": "Right",
+   "CompleteText": "METER PARKING 9AM-3PM MON-FRI "
+ },
+ {
+   "SignIndex": 1161,
+   "Arrow": "Right",
+   "CompleteText": "PAY BY PLATE ZONE 501"
+ },
+ {
+   "SignIndex": 1162,
+   "Arrow": "Left",
+   "CompleteText": "PAY BY PLATE ZONE 501"
+ },
+ {
+   "SignIndex": 1163,
+   "Arrow": "Down",
+   "CompleteText": "PAY BY PLATE ZONE 501"
+ },
+ {
+   "SignIndex": 1164,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 501"
+ },
+ {
+   "SignIndex": 1165,
+   "Arrow": "Both",
+   "CompleteText": "10 HR METER PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1166,
+   "Arrow": "Left",
+   "CompleteText": "10 HR METER PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1167,
+   "Arrow": "Right",
+   "CompleteText": "10 HR METER PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1168,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON WED THU FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1169,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON WED THU FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1170,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON WED THU FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1171,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 8AM-6PM TUE RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1172,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 8AM-6PM TUE RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1173,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 8AM-6PM TUE RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1174,
+   "Arrow": "Right",
+   "CompleteText": "PAY BY PLATE ZONE 502"
+ },
+ {
+   "SignIndex": 1175,
+   "Arrow": "Left",
+   "CompleteText": "PAY BY PLATE ZONE 502"
+ },
+ {
+   "SignIndex": 1176,
+   "Arrow": "Down",
+   "CompleteText": "PAY BY PLATE ZONE 502"
+ },
+ {
+   "SignIndex": 1177,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 502"
+ },
+ {
+   "SignIndex": 1178,
+   "Arrow": "Both",
+   "CompleteText": "HOUR AND A HALF PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1179,
+   "Arrow": "Left",
+   "CompleteText": "HOUR AND A HALF PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1180,
+   "Arrow": "Right",
+   "CompleteText": "HOUR AND A HALF PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1181,
+   "Arrow": "Both",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 100"
+ },
+ {
+   "SignIndex": 1182,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING 8AM-6PM MON-SAT"
+ },
+ {
+   "SignIndex": 1183,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING 8AM-6PM MON-SAT"
+ },
+ {
+   "SignIndex": 1184,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING 8AM-6PM MON-SAT"
+ },
+ {
+   "SignIndex": 1185,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 304"
+ },
+ {
+   "SignIndex": 1186,
+   "Arrow": "Both",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1187,
+   "Arrow": "Left",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1188,
+   "Arrow": "Right",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1189,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING"
+ },
+ {
+   "SignIndex": 1190,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING"
+ },
+ {
+   "SignIndex": 1191,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING"
+ },
+ {
+   "SignIndex": 1192,
+   "Arrow": "Both",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON TUE THUR FRI"
+ },
+ {
+   "SignIndex": 1193,
+   "Arrow": "Left",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON TUE THUR FRI"
+ },
+ {
+   "SignIndex": 1194,
+   "Arrow": "Right",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON TUE THUR FRI"
+ },
+ {
+   "SignIndex": 1195,
+   "Arrow": "Both",
+   "CompleteText": "2 HR METER PARKING 8AM-6PM MON- FRI"
+ },
+ {
+   "SignIndex": 1196,
+   "Arrow": "Left",
+   "CompleteText": "2 HR METER PARKING 8AM-6PM MON- FRI"
+ },
+ {
+   "SignIndex": 1197,
+   "Arrow": "Right",
+   "CompleteText": "2 HR METER PARKING 8AM-6PM MON- FRI"
+ },
+ {
+   "SignIndex": 1198,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 11AM-6PM MON-FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1199,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 11AM-6PM MON-FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1200,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 11AM-6PM MON-FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1201,
+   "Arrow": "Both",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 500"
+ },
+ {
+   "SignIndex": 1202,
+   "Arrow": "Both",
+   "CompleteText": "HOUR AND A HALF PARKING 8AM-6PM MON-SAT"
+ },
+ {
+   "SignIndex": 1203,
+   "Arrow": "Left",
+   "CompleteText": "HOUR AND A HALF PARKING 8AM-6PM MON-SAT"
+ },
+ {
+   "SignIndex": 1204,
+   "Arrow": "Right",
+   "CompleteText": "HOUR AND A HALF PARKING 8AM-6PM MON-SAT"
+ },
+ {
+   "SignIndex": 1205,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING 7AM-6PM MON-SAT"
+ },
+ {
+   "SignIndex": 1206,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING 7AM-6PM MON-SAT"
+ },
+ {
+   "SignIndex": 1207,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING 7AM-6PM MON-SAT"
+ },
+ {
+   "SignIndex": 1208,
+   "Arrow": "Both",
+   "CompleteText": "1.5 HOUR PARKING, 9AM-6PM, MON-SAT"
+ },
+ {
+   "SignIndex": 1209,
+   "Arrow": "Left",
+   "CompleteText": "1.5 HOUR PARKING, 9AM-6PM, MON-SAT"
+ },
+ {
+   "SignIndex": 1210,
+   "Arrow": "Right",
+   "CompleteText": "1.5 HOUR PARKING, 9AM-6PM, MON-SAT"
+ },
+ {
+   "SignIndex": 1211,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING 8AM-3PM MON-FRI"
+ },
+ {
+   "SignIndex": 1212,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING 8AM-3PM MON-FRI"
+ },
+ {
+   "SignIndex": 1213,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING 8AM-3PM MON-FRI"
+ },
+ {
+   "SignIndex": 1214,
+   "Arrow": "Right",
+   "CompleteText": "PAY BY PLATE ZONE 106"
+ },
+ {
+   "SignIndex": 1215,
+   "Arrow": "Left",
+   "CompleteText": "PAY BY PLATE ZONE 106"
+ },
+ {
+   "SignIndex": 1216,
+   "Arrow": "Down",
+   "CompleteText": "PAY BY PLATE ZONE 106"
+ },
+ {
+   "SignIndex": 1217,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 106"
+ },
+ {
+   "SignIndex": 1218,
+   "Arrow": "Both",
+   "CompleteText": "4 HOUR PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1219,
+   "Arrow": "Left",
+   "CompleteText": "4 HOUR PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1220,
+   "Arrow": "Right",
+   "CompleteText": "4 HOUR PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1221,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 404"
+ },
+ {
+   "SignIndex": 1222,
+   "Arrow": "Both",
+   "CompleteText": "30 MIN PARKING MON-SAT"
+ },
+ {
+   "SignIndex": 1223,
+   "Arrow": "Left",
+   "CompleteText": "30 MIN PARKING MON-SAT"
+ },
+ {
+   "SignIndex": 1224,
+   "Arrow": "Right",
+   "CompleteText": "30 MIN PARKING MON-SAT"
+ },
+ {
+   "SignIndex": 1225,
+   "Arrow": "Both",
+   "CompleteText": "90 MIN PARKING"
+ },
+ {
+   "SignIndex": 1226,
+   "Arrow": "Left",
+   "CompleteText": "90 MIN PARKING"
+ },
+ {
+   "SignIndex": 1227,
+   "Arrow": "Right",
+   "CompleteText": "90 MIN PARKING"
+ },
+ {
+   "SignIndex": 1228,
+   "Arrow": "Both",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 300"
+ },
+ {
+   "SignIndex": 1229,
+   "Arrow": "Both",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON-TUE WED FRI"
+ },
+ {
+   "SignIndex": 1230,
+   "Arrow": "Left",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON-TUE WED FRI"
+ },
+ {
+   "SignIndex": 1231,
+   "Arrow": "Right",
+   "CompleteText": "1.5 HR PARKING 9AM-5PM MON-TUE WED FRI"
+ },
+ {
+   "SignIndex": 1232,
+   "Arrow": "None",
+   "CompleteText": "RESERVED PARKING"
+ },
+ {
+   "SignIndex": 1233,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 8AM-6PM WED RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1234,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 8AM-6PM WED RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1235,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 8AM-6PM WED RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1236,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON TUE THU FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1237,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON TUE THU FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1238,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON TUE THU FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1239,
+   "Arrow": "Right",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 402"
+ },
+ {
+   "SignIndex": 1240,
+   "Arrow": "Left",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 402"
+ },
+ {
+   "SignIndex": 1241,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 402"
+ },
+ {
+   "SignIndex": 1242,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 402"
+ },
+ {
+   "SignIndex": 1243,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 8AM-6PM TUE-FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1244,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 8AM-6PM TUE-FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1245,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 8AM-6PM TUE-FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1246,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1247,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1248,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1249,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 8AM-6PM FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1250,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 8AM-6PM FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1251,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 8AM-6PM FRI RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1252,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON-THUR RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1253,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON-THUR RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1254,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 8AM-6PM MON-THUR RESIDENT WITH PERMIT EXEMPT"
+ },
+ {
+   "SignIndex": 1255,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING 7:30AM-6PM MON - FRI"
+ },
+ {
+   "SignIndex": 1256,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING 7:30AM-6PM MON - FRI"
+ },
+ {
+   "SignIndex": 1257,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING 7:30AM-6PM MON - FRI"
+ },
+ {
+   "SignIndex": 1258,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1259,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1260,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1261,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 501 Parking Only"
+ },
+ {
+   "SignIndex": 1262,
+   "Arrow": "Right",
+   "CompleteText": "PAY BY PLATE ZONE 105"
+ },
+ {
+   "SignIndex": 1263,
+   "Arrow": "Left",
+   "CompleteText": "PAY BY PLATE ZONE 105"
+ },
+ {
+   "SignIndex": 1264,
+   "Arrow": "Down",
+   "CompleteText": "PAY BY PLATE ZONE 105"
+ },
+ {
+   "SignIndex": 1265,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 105"
+ },
+ {
+   "SignIndex": 1266,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 105 Parking Only"
+ },
+ {
+   "SignIndex": 1267,
+   "Arrow": "Both",
+   "CompleteText": "1 HR PARKING 7AM-6PM MON- SAT"
+ },
+ {
+   "SignIndex": 1268,
+   "Arrow": "Left",
+   "CompleteText": "1 HR PARKING 7AM-6PM MON- SAT"
+ },
+ {
+   "SignIndex": 1269,
+   "Arrow": "Right",
+   "CompleteText": "1 HR PARKING 7AM-6PM MON- SAT"
+ },
+ {
+   "SignIndex": 1270,
+   "Arrow": "Both",
+   "CompleteText": "30 MIN PARKING MON-SAT 9AM-6PM"
+ },
+ {
+   "SignIndex": 1271,
+   "Arrow": "Left",
+   "CompleteText": "30 MIN PARKING MON-SAT 9AM-6PM"
+ },
+ {
+   "SignIndex": 1272,
+   "Arrow": "Right",
+   "CompleteText": "30 MIN PARKING MON-SAT 9AM-6PM"
+ },
+ {
+   "SignIndex": 1273,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1274,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1275,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1276,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING 9AM-6PM"
+ },
+ {
+   "SignIndex": 1277,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING 9AM-6PM"
+ },
+ {
+   "SignIndex": 1278,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING 9AM-6PM"
+ },
+ {
+   "SignIndex": 1279,
+   "Arrow": "Both",
+   "CompleteText": "30 MIN PARKING MON-SAT 8AM-5:30PM"
+ },
+ {
+   "SignIndex": 1280,
+   "Arrow": "Left",
+   "CompleteText": "30 MIN PARKING MON-SAT 8AM-5:30PM"
+ },
+ {
+   "SignIndex": 1281,
+   "Arrow": "Right",
+   "CompleteText": "30 MIN PARKING MON-SAT 8AM-5:30PM"
+ },
+ {
+   "SignIndex": 1282,
+   "Arrow": "Right",
+   "CompleteText": "PAY BY PLATE ZONE 601"
+ },
+ {
+   "SignIndex": 1283,
+   "Arrow": "Left",
+   "CompleteText": "PAY BY PLATE ZONE 601"
+ },
+ {
+   "SignIndex": 1284,
+   "Arrow": "Down",
+   "CompleteText": "PAY BY PLATE ZONE 601"
+ },
+ {
+   "SignIndex": 1285,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 601"
+ },
+ {
+   "SignIndex": 1286,
+   "Arrow": "Both",
+   "CompleteText": "15 MIN PARKING 8AM-6PM"
+ },
+ {
+   "SignIndex": 1287,
+   "Arrow": "Left",
+   "CompleteText": "15 MIN PARKING 8AM-6PM"
+ },
+ {
+   "SignIndex": 1288,
+   "Arrow": "Right",
+   "CompleteText": "15 MIN PARKING 8AM-6PM"
+ },
+ {
+   "SignIndex": 1289,
+   "Arrow": "Both",
+   "CompleteText": "2 HR PARKING 9AM-6PM"
+ },
+ {
+   "SignIndex": 1290,
+   "Arrow": "Left",
+   "CompleteText": "2 HR PARKING 9AM-6PM"
+ },
+ {
+   "SignIndex": 1291,
+   "Arrow": "Right",
+   "CompleteText": "2 HR PARKING 9AM-6PM"
+ },
+ {
+   "SignIndex": 1292,
+   "Arrow": "Both",
+   "CompleteText": "30 MIN PARKING 7AM-5PM MON-SAT"
+ },
+ {
+   "SignIndex": 1293,
+   "Arrow": "Left",
+   "CompleteText": "30 MIN PARKING 7AM-5PM MON-SAT"
+ },
+ {
+   "SignIndex": 1294,
+   "Arrow": "Right",
+   "CompleteText": "30 MIN PARKING 7AM-5PM MON-SAT"
+ },
+ {
+   "SignIndex": 1295,
+   "Arrow": "Both",
+   "CompleteText": "RESERVED PARKING"
+ },
+ {
+   "SignIndex": 1296,
+   "Arrow": "Left",
+   "CompleteText": "RESERVED PARKING"
+ },
+ {
+   "SignIndex": 1297,
+   "Arrow": "Right",
+   "CompleteText": "RESERVED PARKING"
+ },
+ {
+   "SignIndex": 1298,
+   "Arrow": "Right",
+   "CompleteText": "ParkAlbany, PAY HERE TO PARK"
+ },
+ {
+   "SignIndex": 1299,
+   "Arrow": "Left",
+   "CompleteText": "ParkAlbany, PAY HERE TO PARK"
+ },
+ {
+   "SignIndex": 1300,
+   "Arrow": "None",
+   "CompleteText": "1 HR PARKING WHILE IN CITY HALL ON BUSINESS"
+ },
+ {
+   "SignIndex": 1301,
+   "Arrow": "Both",
+   "CompleteText": "1 HR PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1302,
+   "Arrow": "Left",
+   "CompleteText": "1 HR PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1303,
+   "Arrow": "Right",
+   "CompleteText": "1 HR PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1304,
+   "Arrow": "Left",
+   "CompleteText": "ParkAlbany, SINGLE SPACE METER PARKING Zone 100"
+ },
+ {
+   "SignIndex": 1305,
+   "Arrow": "Right",
+   "CompleteText": "ParkAlbany, SINGLE SPACE METER PARKING Zone 100"
+ },
+ {
+   "SignIndex": 1306,
+   "Arrow": "Both",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 200"
+ },
+ {
+   "SignIndex": 1307,
+   "Arrow": "Both",
+   "CompleteText": "10 HR METER PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1308,
+   "Arrow": "Left",
+   "CompleteText": "10 HR METER PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1309,
+   "Arrow": "Right",
+   "CompleteText": "10 HR METER PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1310,
+   "Arrow": "Both",
+   "CompleteText": "20 MIN METER PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1311,
+   "Arrow": "Left",
+   "CompleteText": "20 MIN METER PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1312,
+   "Arrow": "Right",
+   "CompleteText": "20 MIN METER PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1313,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 402 Parking Only"
+ },
+ {
+   "SignIndex": 1314,
+   "Arrow": "Down",
+   "CompleteText": "PAY BY PLATE ZONE 101"
+ },
+ {
+   "SignIndex": 1315,
+   "Arrow": "Left",
+   "CompleteText": "PAY BY PLATE ZONE 101"
+ },
+ {
+   "SignIndex": 1316,
+   "Arrow": "Right",
+   "CompleteText": "PAY BY PLATE ZONE 101"
+ },
+ {
+   "SignIndex": 1317,
+   "Arrow": "Both",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 101"
+ },
+ {
+   "SignIndex": 1318,
+   "Arrow": "Down",
+   "CompleteText": "ParkAlbany, SINGLE SPACE METER PARKING Zone 101"
+ },
+ {
+   "SignIndex": 1319,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 103 Parking Only"
+ },
+ {
+   "SignIndex": 1320,
+   "Arrow": "Both",
+   "CompleteText": "1.5 HR PARKING 8AM-9PM M-S"
+ },
+ {
+   "SignIndex": 1321,
+   "Arrow": "Left",
+   "CompleteText": "1.5 HR PARKING 8AM-9PM M-S"
+ },
+ {
+   "SignIndex": 1322,
+   "Arrow": "Right",
+   "CompleteText": "1.5 HR PARKING 8AM-9PM M-S"
+ },
+ {
+   "SignIndex": 1323,
+   "Arrow": "Both",
+   "CompleteText": "20 MIN PARKING 8AM-5PM MON-SAT"
+ },
+ {
+   "SignIndex": 1324,
+   "Arrow": "Left",
+   "CompleteText": "20 MIN PARKING 8AM-5PM MON-SAT"
+ },
+ {
+   "SignIndex": 1325,
+   "Arrow": "Right",
+   "CompleteText": "20 MIN PARKING 8AM-5PM MON-SAT"
+ },
+ {
+   "SignIndex": 1326,
+   "Arrow": "Both",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 501"
+ },
+ {
+   "SignIndex": 1327,
+   "Arrow": "Both",
+   "CompleteText": "HOUR AND AHALF PARKING 9AM-6PM TUE-FRI"
+ },
+ {
+   "SignIndex": 1328,
+   "Arrow": "Left",
+   "CompleteText": "HOUR AND AHALF PARKING 9AM-6PM TUE-FRI"
+ },
+ {
+   "SignIndex": 1329,
+   "Arrow": "Right",
+   "CompleteText": "HOUR AND AHALF PARKING 9AM-6PM TUE-FRI"
+ },
+ {
+   "SignIndex": 1330,
+   "Arrow": "Both",
+   "CompleteText": "30 MIN PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1331,
+   "Arrow": "Left",
+   "CompleteText": "30 MIN PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1332,
+   "Arrow": "Right",
+   "CompleteText": "30 MIN PARKING 9AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1333,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 408"
+ },
+ {
+   "SignIndex": 1334,
+   "Arrow": "Both",
+   "CompleteText": "30 MIN PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1335,
+   "Arrow": "Left",
+   "CompleteText": "30 MIN PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1336,
+   "Arrow": "Right",
+   "CompleteText": "30 MIN PARKING 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 1337,
+   "Arrow": "Both",
+   "CompleteText": "30 MIN PARKING 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1338,
+   "Arrow": "Left",
+   "CompleteText": "30 MIN PARKING 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1339,
+   "Arrow": "Right",
+   "CompleteText": "30 MIN PARKING 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1340,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 101"
+ },
+ {
+   "SignIndex": 1341,
+   "Arrow": "None",
+   "CompleteText": "Payment Valid For Zone 101 Parking Only"
+ },
+ {
+   "SignIndex": 1342,
+   "Arrow": "Both",
+   "CompleteText": "2 HOUR PARKING 8AM-10PM MON-SAT"
+ },
+ {
+   "SignIndex": 1343,
+   "Arrow": "Left",
+   "CompleteText": "2 HOUR PARKING 8AM-10PM MON-SAT"
+ },
+ {
+   "SignIndex": 1344,
+   "Arrow": "Right",
+   "CompleteText": "2 HOUR PARKING 8AM-10PM MON-SAT"
+ },
+ {
+   "SignIndex": 1345,
+   "Arrow": "Both",
+   "CompleteText": "10 HR  PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1346,
+   "Arrow": "Left",
+   "CompleteText": "10 HR  PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1347,
+   "Arrow": "Right",
+   "CompleteText": "10 HR  PARKING 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 1348,
+   "Arrow": "Both",
+   "CompleteText": "ParkAlbany, Pay by Plate at meter or by mobile app Zone 105"
+ },
+ {
+   "SignIndex": 1349,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 107"
+ },
+ {
+   "SignIndex": 1350,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 401"
+ },
+ {
+   "SignIndex": 1351,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 403"
+ },
+ {
+   "SignIndex": 1352,
+   "Arrow": "None",
+   "CompleteText": "PAY FROM YOUR PHONE, DOWNLOAD PARKALBANY, ZONE 407"
+ },
+ {
+   "SignIndex": 1353,
+   "Arrow": "Left",
+   "CompleteText": "PAY FROM YOUR PHONE, PAY AT METER"
+ },
+ {
+   "SignIndex": 2012,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING, DRIVEWAY"
+ },
+ {
+   "SignIndex": 2013,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING, DRIVEWAY"
+ },
+ {
+   "SignIndex": 2014,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT BUSES, 3PM-6PM, MON-FRI"
+ },
+ {
+   "SignIndex": 2015,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT BUSES, 3PM-6PM, MON-FRI"
+ },
+ {
+   "SignIndex": 2016,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT D.A. INVESTIGATOR"
+ },
+ {
+   "SignIndex": 2017,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT D.A. VEHICLES 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 2018,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT D.A. VEHICLES 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 2019,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL CITY CARS"
+ },
+ {
+   "SignIndex": 2020,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL CITY CARS"
+ },
+ {
+   "SignIndex": 2021,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL CITY CARS"
+ },
+ {
+   "SignIndex": 2022,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL CITY VEHICLES"
+ },
+ {
+   "SignIndex": 2023,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL CITY VEHICLES"
+ },
+ {
+   "SignIndex": 2024,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT OGS VEHICLES"
+ },
+ {
+   "SignIndex": 2025,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT SHERIFF DEPARTMENT VEHICLES"
+ },
+ {
+   "SignIndex": 2026,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT SHERIFF DEPARTMENT VEHICLES"
+ },
+ {
+   "SignIndex": 2027,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT SHERIFF DEPARTMENT VEHICLES"
+ },
+ {
+   "SignIndex": 2028,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT US ATTORNEY OFFICE"
+ },
+ {
+   "SignIndex": 2029,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT US ATTORNEY OFFICE"
+ },
+ {
+   "SignIndex": 2030,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT US ATTORNEY OFFICE"
+ },
+ {
+   "SignIndex": 2031,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT US DISTRICT COURT"
+ },
+ {
+   "SignIndex": 2032,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT US DISTRICT COURT"
+ },
+ {
+   "SignIndex": 2033,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT US DISTRICT COURT"
+ },
+ {
+   "SignIndex": 2034,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT VENDORS WITH PERMIT 8AM-3PM MON-FRI"
+ },
+ {
+   "SignIndex": 2035,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 2036,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 2037,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE. 7AM-6PM, MON-FRI. 15 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2038,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE. 7AM-6PM, MON-FRI. 15 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2039,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE. 7AM-6PM, MON-FRI. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2040,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE. 7AM-6PM, MON-FRI. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2041,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE. 7AM-5PM, MON-FRI. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2042,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE. 7AM-5PM, MON-FRI. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2043,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING VENDORS ONLY WITH PERMIT 8AM-3PM MON-FRI"
+ },
+ {
+   "SignIndex": 2044,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING VENDORS ONLY WITH PERMIT 8AM-3PM MON-FRI"
+ },
+ {
+   "SignIndex": 2045,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 6PM MON- 6PM TUES"
+ },
+ {
+   "SignIndex": 2046,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 6PM MON- 6PM TUES"
+ },
+ {
+   "SignIndex": 2047,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 6PM MON- 6PM TUES"
+ },
+ {
+   "SignIndex": 2048,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM MON-7AM TUES"
+ },
+ {
+   "SignIndex": 2049,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM MON-7AM TUES"
+ },
+ {
+   "SignIndex": 2050,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM MON-7AM TUES"
+ },
+ {
+   "SignIndex": 2051,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM SUN-6AM MON"
+ },
+ {
+   "SignIndex": 2052,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM SUN-6AM MON"
+ },
+ {
+   "SignIndex": 2053,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM SUN -7AM MON"
+ },
+ {
+   "SignIndex": 2054,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM SUN -7AM MON"
+ },
+ {
+   "SignIndex": 2055,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM SUN -7AM MON"
+ },
+ {
+   "SignIndex": 2056,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM WED -7AM THURS"
+ },
+ {
+   "SignIndex": 2057,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM WED -7AM THURS"
+ },
+ {
+   "SignIndex": 2058,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM WED -7AM THURS"
+ },
+ {
+   "SignIndex": 2059,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM-7AM MON, WED, FRI"
+ },
+ {
+   "SignIndex": 2060,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM-7AM MON, WED, FRI"
+ },
+ {
+   "SignIndex": 2061,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM-7AM MON, WED, FRI"
+ },
+ {
+   "SignIndex": 2062,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING ANY TIME"
+ },
+ {
+   "SignIndex": 2063,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING ANY TIME"
+ },
+ {
+   "SignIndex": 2064,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING ANY TIME"
+ },
+ {
+   "SignIndex": 2065,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-3PM THUR"
+ },
+ {
+   "SignIndex": 2066,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-3PM THUR"
+ },
+ {
+   "SignIndex": 2067,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-3PM THUR"
+ },
+ {
+   "SignIndex": 2068,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES"
+ },
+ {
+   "SignIndex": 2069,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES"
+ },
+ {
+   "SignIndex": 2070,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES"
+ },
+ {
+   "SignIndex": 2071,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING ANY TIME"
+ },
+ {
+   "SignIndex": 2072,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING ANY TIME"
+ },
+ {
+   "SignIndex": 2073,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING ANY TIME"
+ },
+ {
+   "SignIndex": 2074,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-5PM"
+ },
+ {
+   "SignIndex": 2075,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-5PM"
+ },
+ {
+   "SignIndex": 2076,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-5PM"
+ },
+ {
+   "SignIndex": 2077,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL CHURCH BUSINESS"
+ },
+ {
+   "SignIndex": 2078,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL CHURCH BUSINESS"
+ },
+ {
+   "SignIndex": 2079,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL CHURCH BUSINESS"
+ },
+ {
+   "SignIndex": 2080,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL DROP OFF 7AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2081,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL DROP OFF 7AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2082,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL DROP OFF 7AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2083,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT FIRE DEPT VEHICLES"
+ },
+ {
+   "SignIndex": 2084,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT FIRE DEPT VEHICLES"
+ },
+ {
+   "SignIndex": 2085,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT FIRE DEPT VEHICLES"
+ },
+ {
+   "SignIndex": 2086,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 6PM WED-6PM THUR"
+ },
+ {
+   "SignIndex": 2087,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 6PM WED-6PM THUR"
+ },
+ {
+   "SignIndex": 2088,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 6PM WED-6PM THUR"
+ },
+ {
+   "SignIndex": 2089,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 6PM TUES-6PM WED"
+ },
+ {
+   "SignIndex": 2090,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 6PM TUES-6PM WED"
+ },
+ {
+   "SignIndex": 2091,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 6PM TUES-6PM WED"
+ },
+ {
+   "SignIndex": 2092,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 2093,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 2094,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 6PM WED-6PM THUR"
+ },
+ {
+   "SignIndex": 2098,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 2102,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM - 5PM MON- FRIDAY"
+ },
+ {
+   "SignIndex": 2103,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM - 5PM MON- FRIDAY"
+ },
+ {
+   "SignIndex": 2104,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM - 5PM MON- FRIDAY"
+ },
+ {
+   "SignIndex": 2105,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 7PM FRI"
+ },
+ {
+   "SignIndex": 2106,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 7PM FRI"
+ },
+ {
+   "SignIndex": 2107,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 7PM FRI"
+ },
+ {
+   "SignIndex": 2108,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 7PM THUR"
+ },
+ {
+   "SignIndex": 2109,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 7PM THUR"
+ },
+ {
+   "SignIndex": 2110,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 7PM THUR"
+ },
+ {
+   "SignIndex": 2111,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM - 9AM"
+ },
+ {
+   "SignIndex": 2112,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM - 9AM"
+ },
+ {
+   "SignIndex": 2113,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM - 9AM"
+ },
+ {
+   "SignIndex": 2114,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 7PM WED"
+ },
+ {
+   "SignIndex": 2115,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 7PM WED"
+ },
+ {
+   "SignIndex": 2116,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 7PM WED"
+ },
+ {
+   "SignIndex": 2117,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 7PM WED"
+ },
+ {
+   "SignIndex": 2118,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 7PM WED"
+ },
+ {
+   "SignIndex": 2119,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 7PM WED"
+ },
+ {
+   "SignIndex": 2120,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 5PM - 8PM"
+ },
+ {
+   "SignIndex": 2121,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 5PM - 8PM"
+ },
+ {
+   "SignIndex": 2122,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 5PM - 8PM"
+ },
+ {
+   "SignIndex": 2123,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING INTERFAITH ONLY"
+ },
+ {
+   "SignIndex": 2124,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING INTERFAITH ONLY"
+ },
+ {
+   "SignIndex": 2125,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING INTERFAITH ONLY"
+ },
+ {
+   "SignIndex": 2126,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 12AM-7AM MON, WED, FRI"
+ },
+ {
+   "SignIndex": 2130,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12 MID - 7AM TUES THUR SAT SUN"
+ },
+ {
+   "SignIndex": 2131,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12 MID - 7AM TUES THUR SAT SUN"
+ },
+ {
+   "SignIndex": 2132,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12 MID - 7AM TUES THUR SAT SUN"
+ },
+ {
+   "SignIndex": 2136,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 4PM WED"
+ },
+ {
+   "SignIndex": 2137,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 4PM WED"
+ },
+ {
+   "SignIndex": 2138,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 4PM WED"
+ },
+ {
+   "SignIndex": 2139,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 4PM THUR"
+ },
+ {
+   "SignIndex": 2140,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 4PM THUR"
+ },
+ {
+   "SignIndex": 2141,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 4PM THUR"
+ },
+ {
+   "SignIndex": 2142,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 4PM TUE"
+ },
+ {
+   "SignIndex": 2143,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 4PM TUE"
+ },
+ {
+   "SignIndex": 2144,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 4PM TUE"
+ },
+ {
+   "SignIndex": 2145,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM - 2PM THURSDAY"
+ },
+ {
+   "SignIndex": 2146,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM - 2PM THURSDAY"
+ },
+ {
+   "SignIndex": 2147,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM - 2PM THURSDAY"
+ },
+ {
+   "SignIndex": 2148,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 3AM - 10AM TUES THURS SAT SUN"
+ },
+ {
+   "SignIndex": 2149,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 3AM - 10AM TUES THURS SAT SUN"
+ },
+ {
+   "SignIndex": 2150,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 3AM - 10AM TUES THURS SAT SUN"
+ },
+ {
+   "SignIndex": 2157,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 6AM SAT - 8PM SUN"
+ },
+ {
+   "SignIndex": 2158,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 6AM SAT - 8PM SUN"
+ },
+ {
+   "SignIndex": 2159,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 6AM SAT - 8PM SUN"
+ },
+ {
+   "SignIndex": 2160,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM - 4PM MON - FRI"
+ },
+ {
+   "SignIndex": 2161,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM - 4PM MON - FRI"
+ },
+ {
+   "SignIndex": 2162,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM - 4PM MON - FRI"
+ },
+ {
+   "SignIndex": 2163,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM TUE TO 7AM WED"
+ },
+ {
+   "SignIndex": 2164,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM TUE TO 7AM WED"
+ },
+ {
+   "SignIndex": 2165,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM TUE TO 7AM WED"
+ },
+ {
+   "SignIndex": 2167,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-2PM WED"
+ },
+ {
+   "SignIndex": 2168,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-2PM WED"
+ },
+ {
+   "SignIndex": 2169,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-2PM WED"
+ },
+ {
+   "SignIndex": 2170,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 3AM - 10AM MON WED FRI"
+ },
+ {
+   "SignIndex": 2171,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 3AM - 10AM MON WED FRI"
+ },
+ {
+   "SignIndex": 2172,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 3AM - 10AM MON WED FRI"
+ },
+ {
+   "SignIndex": 2173,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 3PM WED"
+ },
+ {
+   "SignIndex": 2174,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 3PM WED"
+ },
+ {
+   "SignIndex": 2175,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 3PM WED"
+ },
+ {
+   "SignIndex": 2179,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT BUSES 6AM-9AM 2PM-4PM"
+ },
+ {
+   "SignIndex": 2180,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT BUSES 6AM-9AM 2PM-4PM"
+ },
+ {
+   "SignIndex": 2181,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT BUSES 6AM-9AM 2PM-4PM"
+ },
+ {
+   "SignIndex": 2182,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING BUS STOP"
+ },
+ {
+   "SignIndex": 2183,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 2184,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 2185,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 2186,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 2187,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 2188,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 2189,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING DRIVEWAY"
+ },
+ {
+   "SignIndex": 2190,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING DRIVEWAY"
+ },
+ {
+   "SignIndex": 2191,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 2192,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 2193,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 2194,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12PM-3PM TUES"
+ },
+ {
+   "SignIndex": 2195,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12PM-3PM TUES"
+ },
+ {
+   "SignIndex": 2196,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12PM-3PM TUES"
+ },
+ {
+   "SignIndex": 2197,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12PM-3PM TUES"
+ },
+ {
+   "SignIndex": 2198,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12PM-3PM TUES"
+ },
+ {
+   "SignIndex": 2199,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12PM-3PM TUES"
+ },
+ {
+   "SignIndex": 2203,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 2204,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 2205,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 2206,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 2207,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 2208,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 2209,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM-7AM TUES"
+ },
+ {
+   "SignIndex": 2210,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM-7AM TUES"
+ },
+ {
+   "SignIndex": 2211,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM-7AM TUES"
+ },
+ {
+   "SignIndex": 2212,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 2213,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 2214,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 2215,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM-7AM TUES"
+ },
+ {
+   "SignIndex": 2216,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM-7AM TUES"
+ },
+ {
+   "SignIndex": 2217,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM-7AM TUES"
+ },
+ {
+   "SignIndex": 2218,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 2219,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 2220,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 2221,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM WED - 6PM THURS"
+ },
+ {
+   "SignIndex": 2222,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM WED - 6PM THURS"
+ },
+ {
+   "SignIndex": 2223,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM WED - 6PM THURS"
+ },
+ {
+   "SignIndex": 2224,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM - 7AM WED"
+ },
+ {
+   "SignIndex": 2225,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM - 7AM WED"
+ },
+ {
+   "SignIndex": 2226,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM - 7AM WED"
+ },
+ {
+   "SignIndex": 2227,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM - 7AM WED"
+ },
+ {
+   "SignIndex": 2228,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM - 7AM WED"
+ },
+ {
+   "SignIndex": 2229,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM - 7AM WED"
+ },
+ {
+   "SignIndex": 2230,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM - 7AM THUR"
+ },
+ {
+   "SignIndex": 2231,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM - 7AM THUR"
+ },
+ {
+   "SignIndex": 2232,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM - 7AM THUR"
+ },
+ {
+   "SignIndex": 2233,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM - 7AM THUR"
+ },
+ {
+   "SignIndex": 2234,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM - 7AM THUR"
+ },
+ {
+   "SignIndex": 2235,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM - 7AM THUR"
+ },
+ {
+   "SignIndex": 2236,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-2PM FRI"
+ },
+ {
+   "SignIndex": 2237,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-2PM FRI"
+ },
+ {
+   "SignIndex": 2238,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-2PM FRI"
+ },
+ {
+   "SignIndex": 2239,
+   "Arrow": "None",
+   "CompleteText": "ILLEGAL TO PARK ON CROSSWALK"
+ },
+ {
+   "SignIndex": 2240,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT FIRE DEPT PERSONNEL"
+ },
+ {
+   "SignIndex": 2241,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT FIRE DEPT PERSONNEL"
+ },
+ {
+   "SignIndex": 2242,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT FIRE DEPT PERSONNEL"
+ },
+ {
+   "SignIndex": 2243,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM-7AM TUE THUR"
+ },
+ {
+   "SignIndex": 2244,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM-7AM TUE THUR"
+ },
+ {
+   "SignIndex": 2245,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM-7AM TUE THUR"
+ },
+ {
+   "SignIndex": 2246,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 7PM MON-FRI"
+ },
+ {
+   "SignIndex": 2247,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 7PM MON-FRI"
+ },
+ {
+   "SignIndex": 2248,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 7PM MON-FRI"
+ },
+ {
+   "SignIndex": 2249,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING ALL VEHICLES TOWED AT OWNER'S EXPENSE"
+ },
+ {
+   "SignIndex": 2250,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-4PM WED"
+ },
+ {
+   "SignIndex": 2251,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-4PM WED"
+ },
+ {
+   "SignIndex": 2252,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-4PM WED"
+ },
+ {
+   "SignIndex": 2253,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-4PM THUR"
+ },
+ {
+   "SignIndex": 2254,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-4PM THUR"
+ },
+ {
+   "SignIndex": 2255,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-4PM THUR"
+ },
+ {
+   "SignIndex": 2256,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-4PM WED"
+ },
+ {
+   "SignIndex": 2257,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-4PM WED"
+ },
+ {
+   "SignIndex": 2258,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-4PM WED"
+ },
+ {
+   "SignIndex": 2259,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-4PM THUR"
+ },
+ {
+   "SignIndex": 2260,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-4PM THUR"
+ },
+ {
+   "SignIndex": 2261,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-4PM THUR"
+ },
+ {
+   "SignIndex": 2262,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 2263,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 2264,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 2265,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2266,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2267,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2268,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM TUE TO 7AM WED"
+ },
+ {
+   "SignIndex": 2269,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM TUE TO 7AM WED"
+ },
+ {
+   "SignIndex": 2270,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM TUE TO 7AM WED"
+ },
+ {
+   "SignIndex": 2271,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING DRIVEWAY"
+ },
+ {
+   "SignIndex": 2272,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING DRIVEWAY"
+ },
+ {
+   "SignIndex": 2273,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 11PM TUE TO 7AM WED"
+ },
+ {
+   "SignIndex": 2274,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 2275,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 2276,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 2277,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2278,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2279,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2280,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-3PM MON WED FRI"
+ },
+ {
+   "SignIndex": 2281,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-3PM MON WED FRI"
+ },
+ {
+   "SignIndex": 2282,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-3PM MON WED FRI"
+ },
+ {
+   "SignIndex": 2283,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-3PM TUE WED THUR"
+ },
+ {
+   "SignIndex": 2284,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-3PM TUE WED THUR"
+ },
+ {
+   "SignIndex": 2285,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-3PM TUE WED THUR"
+ },
+ {
+   "SignIndex": 2286,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING "
+ },
+ {
+   "SignIndex": 2287,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 11PM WED - 7AM THUR"
+ },
+ {
+   "SignIndex": 2288,
+   "Arrow": "Left",
+   "CompleteText": "ILLEGAL TO PARK ON SIDEWALK"
+ },
+ {
+   "SignIndex": 2289,
+   "Arrow": "Right",
+   "CompleteText": "ILLEGAL TO PARK ON SIDEWALK"
+ },
+ {
+   "SignIndex": 2290,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM - 2PM FRIDAY TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2291,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM - 2PM FRIDAY TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2292,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM - 2PM FRIDAY TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2293,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING "
+ },
+ {
+   "SignIndex": 2294,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING "
+ },
+ {
+   "SignIndex": 2295,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 12 MID - 7AM TUES THUR SAT SUN"
+ },
+ {
+   "SignIndex": 2296,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 7AM-3PM THUR"
+ },
+ {
+   "SignIndex": 2298,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 2299,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 2300,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 2301,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2302,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2303,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2304,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT VOLUNTEER SERVICES"
+ },
+ {
+   "SignIndex": 2305,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT VOLUNTEER SERVICES"
+ },
+ {
+   "SignIndex": 2306,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT VOLUNTEER SERVICES"
+ },
+ {
+   "SignIndex": 2307,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT DISTRIC ATTORNEY OFFICE- TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2308,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT DISTRIC ATTORNEY OFFICE- TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2309,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT DISTRIC ATTORNEY OFFICE- TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2310,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT COURT PERSONNEL- TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2311,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT COURT PERSONNEL- TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2312,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT COURT PERSONNEL- TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2313,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 2314,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 2315,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 2316,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 2317,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 2318,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 2319,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING ON SIDEWALK"
+ },
+ {
+   "SignIndex": 2320,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING LOADING ZONE 8AM-6PM M-F"
+ },
+ {
+   "SignIndex": 2321,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE 8AM-6PM M-F"
+ },
+ {
+   "SignIndex": 2322,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE 8AM-6PM M-F"
+ },
+ {
+   "SignIndex": 2323,
+   "Arrow": "Both",
+   "CompleteText": "30 MINUTE PARKING"
+ },
+ {
+   "SignIndex": 2324,
+   "Arrow": "Left",
+   "CompleteText": "30 MINUTE PARKING"
+ },
+ {
+   "SignIndex": 2325,
+   "Arrow": "Right",
+   "CompleteText": "30 MINUTE PARKING"
+ },
+ {
+   "SignIndex": 2326,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 2327,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING UNLOADING ZONE"
+ },
+ {
+   "SignIndex": 2328,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING UNLOADING ZONE"
+ },
+ {
+   "SignIndex": 2329,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING UNLOADING ZONE"
+ },
+ {
+   "SignIndex": 2330,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING UNLOADING ZONE"
+ },
+ {
+   "SignIndex": 2331,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING UNLOADING ZONE"
+ },
+ {
+   "SignIndex": 2332,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING UNLOADING ZONE"
+ },
+ {
+   "SignIndex": 2333,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT POLICE VEHICLES"
+ },
+ {
+   "SignIndex": 2334,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT POLICE VEHICLES"
+ },
+ {
+   "SignIndex": 2335,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT POLICE VEHICLES"
+ },
+ {
+   "SignIndex": 2336,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM-3PM WED"
+ },
+ {
+   "SignIndex": 2337,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM-3PM WED"
+ },
+ {
+   "SignIndex": 2338,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM-3PM WED"
+ },
+ {
+   "SignIndex": 2339,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING FIRE LANE"
+ },
+ {
+   "SignIndex": 2340,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING FIRE LANE"
+ },
+ {
+   "SignIndex": 2341,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING FIRE LANE"
+ },
+ {
+   "SignIndex": 2342,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES SAT 3-5PM SUN 8AM-12PM"
+ },
+ {
+   "SignIndex": 2343,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES SAT 3-5PM SUN 8AM-12PM"
+ },
+ {
+   "SignIndex": 2344,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES SAT 3-5PM SUN 8AM-12PM"
+ },
+ {
+   "SignIndex": 2345,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 2346,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 2347,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 2348,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 2349,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 2350,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 2351,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING SNOW EMERGENCY"
+ },
+ {
+   "SignIndex": 2352,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-4PM TUE"
+ },
+ {
+   "SignIndex": 2353,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-4PM TUE"
+ },
+ {
+   "SignIndex": 2354,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-4PM TUE"
+ },
+ {
+   "SignIndex": 2355,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2356,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2357,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2358,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2359,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2360,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2361,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING DO NOT BLOCK DRIVEWAY TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2362,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 2363,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 2364,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 2365,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2366,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2367,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2368,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 2369,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 2370,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 2371,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2372,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2373,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2374,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 10PM WED-7AM THUR"
+ },
+ {
+   "SignIndex": 2375,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 10PM WED-7AM THUR"
+ },
+ {
+   "SignIndex": 2376,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 10PM WED-7AM THUR"
+ },
+ {
+   "SignIndex": 2377,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM MON TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2378,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM MON TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2379,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM MON TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2380,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM TUE TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2381,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM TUE TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2382,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM TUE TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2383,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING UNLOADING ZONE 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2384,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING UNLOADING ZONE 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2385,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING UNLOADING ZONE 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2386,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM MON"
+ },
+ {
+   "SignIndex": 2387,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM MON"
+ },
+ {
+   "SignIndex": 2388,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM MON"
+ },
+ {
+   "SignIndex": 2389,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM TUE"
+ },
+ {
+   "SignIndex": 2390,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM TUE"
+ },
+ {
+   "SignIndex": 2391,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM TUE"
+ },
+ {
+   "SignIndex": 2392,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-12PM MON"
+ },
+ {
+   "SignIndex": 2393,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-12PM MON"
+ },
+ {
+   "SignIndex": 2394,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-12PM MON"
+ },
+ {
+   "SignIndex": 2395,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-12PM TUE"
+ },
+ {
+   "SignIndex": 2396,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-12PM TUE"
+ },
+ {
+   "SignIndex": 2397,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-12PM TUE"
+ },
+ {
+   "SignIndex": 2398,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM-10AM THUR"
+ },
+ {
+   "SignIndex": 2399,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM-10AM THUR"
+ },
+ {
+   "SignIndex": 2400,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM-10AM THUR"
+ },
+ {
+   "SignIndex": 2401,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM-10AM WED"
+ },
+ {
+   "SignIndex": 2402,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM-10AM WED"
+ },
+ {
+   "SignIndex": 2403,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM-10AM WED"
+ },
+ {
+   "SignIndex": 2404,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM THUR TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2405,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM THUR TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2406,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM THUR TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2407,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM THUR"
+ },
+ {
+   "SignIndex": 2408,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM THUR"
+ },
+ {
+   "SignIndex": 2409,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM THUR"
+ },
+ {
+   "SignIndex": 2410,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING LOADING ZONE 7AM-9AM 3PM-6PM M-F 20 MIN LIMIT"
+ },
+ {
+   "SignIndex": 2411,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE 7AM-9AM 3PM-6PM M-F 20 MIN LIMIT"
+ },
+ {
+   "SignIndex": 2412,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE 7AM-9AM 3PM-6PM M-F 20 MIN LIMIT"
+ },
+ {
+   "SignIndex": 2413,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM WED"
+ },
+ {
+   "SignIndex": 2414,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM WED"
+ },
+ {
+   "SignIndex": 2415,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM WED"
+ },
+ {
+   "SignIndex": 2416,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM MON"
+ },
+ {
+   "SignIndex": 2417,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM MON"
+ },
+ {
+   "SignIndex": 2418,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM MON"
+ },
+ {
+   "SignIndex": 2419,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING BETWEEN SIGNS"
+ },
+ {
+   "SignIndex": 2420,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING BETWEEN SIGNS"
+ },
+ {
+   "SignIndex": 2421,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING BETWEEN SIGNS"
+ },
+ {
+   "SignIndex": 2422,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL DROP OFF 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2423,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL DROP OFF 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2424,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL DROP OFF 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2425,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT FIRE DEPARTMENT VEHICLES"
+ },
+ {
+   "SignIndex": 2426,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT FIRE DEPARTMENT VEHICLES"
+ },
+ {
+   "SignIndex": 2427,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT FIRE DEPARTMENT VEHICLES"
+ },
+ {
+   "SignIndex": 2428,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT COURT PERSONNEL"
+ },
+ {
+   "SignIndex": 2429,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT COURT PERSONNEL"
+ },
+ {
+   "SignIndex": 2430,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT COURT PERSONNEL"
+ },
+ {
+   "SignIndex": 2431,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 2432,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 2433,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 2434,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 2435,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 2436,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 2437,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING"
+ },
+ {
+   "SignIndex": 2438,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING ON SIDEWALK"
+ },
+ {
+   "SignIndex": 2439,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING ON SIDEWALK"
+ },
+ {
+   "SignIndex": 2440,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING ON SIDEWALK"
+ },
+ {
+   "SignIndex": 2441,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 5PM - 8PM"
+ },
+ {
+   "SignIndex": 2442,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 5PM - 8PM"
+ },
+ {
+   "SignIndex": 2443,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 5PM - 8PM"
+ },
+ {
+   "SignIndex": 2444,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 7AM - 4PM THUR"
+ },
+ {
+   "SignIndex": 2445,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 7AM - 4PM WED"
+ },
+ {
+   "SignIndex": 2446,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM TUE - 10AM WED"
+ },
+ {
+   "SignIndex": 2447,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM TUE - 10AM WED"
+ },
+ {
+   "SignIndex": 2448,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM TUE - 10AM WED"
+ },
+ {
+   "SignIndex": 2449,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM WED - 10AM THUR"
+ },
+ {
+   "SignIndex": 2450,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM WED - 10AM THUR"
+ },
+ {
+   "SignIndex": 2451,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM WED - 10AM THUR"
+ },
+ {
+   "SignIndex": 2452,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM - 10AM TUE THUR SAT SUN"
+ },
+ {
+   "SignIndex": 2453,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM - 10AM TUE THUR SAT SUN"
+ },
+ {
+   "SignIndex": 2454,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM - 10AM TUE THUR SAT SUN"
+ },
+ {
+   "SignIndex": 2455,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM - 10AM MON WED FRI"
+ },
+ {
+   "SignIndex": 2456,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM - 10AM MON WED FRI"
+ },
+ {
+   "SignIndex": 2457,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM - 10AM MON WED FRI"
+ },
+ {
+   "SignIndex": 2458,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 7AM - 3PM WED"
+ },
+ {
+   "SignIndex": 2459,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM THUR - 7AM FRI"
+ },
+ {
+   "SignIndex": 2460,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM THUR - 7AM FRI"
+ },
+ {
+   "SignIndex": 2461,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM THUR - 7AM FRI"
+ },
+ {
+   "SignIndex": 2462,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM-5PM TUE THUR"
+ },
+ {
+   "SignIndex": 2463,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM-5PM TUE THUR"
+ },
+ {
+   "SignIndex": 2464,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM-5PM TUE THUR"
+ },
+ {
+   "SignIndex": 2465,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING DRIVEWAY"
+ },
+ {
+   "SignIndex": 2466,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE. 8AM-6PM, MON-FRI. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2467,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE. 8AM-6PM, MON-FRI. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2468,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT ROAD TEST VEHICLES 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2469,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT ROAD TEST VEHICLES 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2470,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT ROAD TEST VEHICLES 8AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 2471,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING ANY TIME"
+ },
+ {
+   "SignIndex": 2472,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING ANY TIME"
+ },
+ {
+   "SignIndex": 2473,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING TUE THU SAT SUN Noon to the Following Noon"
+ },
+ {
+   "SignIndex": 2474,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING TUE THU SAT SUN Noon to the Following Noon"
+ },
+ {
+   "SignIndex": 2475,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING TUE THU SAT SUN Noon to the Following Noon"
+ },
+ {
+   "SignIndex": 2476,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING TUE THU SAT SUN Noon to the Following Noon"
+ },
+ {
+   "SignIndex": 2477,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING BUS STOP"
+ },
+ {
+   "SignIndex": 2478,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 7AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2479,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 2480,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2481,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2482,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2483,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2484,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2485,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2486,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2487,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 2491,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2492,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2493,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM-3PM TUE"
+ },
+ {
+   "SignIndex": 2494,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 3PM MON TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2495,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 3PM MON TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2496,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 3PM MON TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2497,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 3PM TUE TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2498,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 3PM TUE TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2499,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 3PM TUE TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2500,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2501,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 2502,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES 8AM-6PM"
+ },
+ {
+   "SignIndex": 2503,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES 8AM-6PM"
+ },
+ {
+   "SignIndex": 2504,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES 8AM-6PM"
+ },
+ {
+   "SignIndex": 2505,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING LOADING ZONE 8AM-11AM MON-FRI 30 MIN LIMIT"
+ },
+ {
+   "SignIndex": 2506,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE 8AM-11AM MON-FRI 30 MIN LIMIT"
+ },
+ {
+   "SignIndex": 2507,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE 8AM-11AM MON-FRI 30 MIN LIMIT"
+ },
+ {
+   "SignIndex": 2508,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 2509,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM THUR"
+ },
+ {
+   "SignIndex": 2510,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM THUR"
+ },
+ {
+   "SignIndex": 2511,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM THUR"
+ },
+ {
+   "SignIndex": 2515,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM-5PM MON WED FRI"
+ },
+ {
+   "SignIndex": 2516,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM-5PM MON WED FRI"
+ },
+ {
+   "SignIndex": 2517,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM-5PM MON WED FRI"
+ },
+ {
+   "SignIndex": 2518,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL VEHICLES"
+ },
+ {
+   "SignIndex": 2519,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL VEHICLES"
+ },
+ {
+   "SignIndex": 2520,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL VEHICLES"
+ },
+ {
+   "SignIndex": 2521,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9PM TUE 11AM WED"
+ },
+ {
+   "SignIndex": 2522,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9PM TUE 11AM WED"
+ },
+ {
+   "SignIndex": 2523,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9PM TUE 11AM WED"
+ },
+ {
+   "SignIndex": 2524,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9PM WED 11AM THUR"
+ },
+ {
+   "SignIndex": 2525,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9PM WED 11AM THUR"
+ },
+ {
+   "SignIndex": 2526,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9PM WED 11AM THUR"
+ },
+ {
+   "SignIndex": 2527,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 2528,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 2529,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 2530,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 6PM WED 8AM THUR"
+ },
+ {
+   "SignIndex": 2531,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 6PM WED 8AM THUR"
+ },
+ {
+   "SignIndex": 2532,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 6PM WED 8AM THUR"
+ },
+ {
+   "SignIndex": 2533,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2534,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2535,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2536,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL DROP OFF 8AM - 4PM MON - FRI"
+ },
+ {
+   "SignIndex": 2537,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL DROP OFF 8AM - 4PM MON - FRI"
+ },
+ {
+   "SignIndex": 2538,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL DROP OFF 8AM - 4PM MON - FRI"
+ },
+ {
+   "SignIndex": 2539,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 6PM WED 8AM THUR"
+ },
+ {
+   "SignIndex": 2540,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 6PM WED 8AM THUR"
+ },
+ {
+   "SignIndex": 2541,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 6PM WED 8AM THUR"
+ },
+ {
+   "SignIndex": 2542,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2543,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2544,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 2545,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING MON WED FRI Noon to the following noon"
+ },
+ {
+   "SignIndex": 2546,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING MON WED FRI Noon to the following noon"
+ },
+ {
+   "SignIndex": 2547,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING MON WED FRI Noon to the following noon"
+ },
+ {
+   "SignIndex": 2548,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING MON WED FRI Noon to the following noon"
+ },
+ {
+   "SignIndex": 2549,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 12PM-3PM TUES"
+ },
+ {
+   "SignIndex": 2553,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING UNLOADING ZONE 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 2554,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING UNLOADING ZONE 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 2555,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING UNLOADING ZONE 8AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 2556,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM MON-7AM TUES"
+ },
+ {
+   "SignIndex": 2557,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM MON-7AM TUES"
+ },
+ {
+   "SignIndex": 2558,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM MON-7AM TUES"
+ },
+ {
+   "SignIndex": 2559,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT SECURITY VEHICLES"
+ },
+ {
+   "SignIndex": 2560,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT SECURITY VEHICLES"
+ },
+ {
+   "SignIndex": 2561,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT SECURITY VEHICLES"
+ },
+ {
+   "SignIndex": 2562,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM-8AM TUES"
+ },
+ {
+   "SignIndex": 2563,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM-8AM TUES"
+ },
+ {
+   "SignIndex": 2564,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM-8AM TUES"
+ },
+ {
+   "SignIndex": 2565,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM-8AM MON"
+ },
+ {
+   "SignIndex": 2566,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM-8AM MON"
+ },
+ {
+   "SignIndex": 2567,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM-8AM MON"
+ },
+ {
+   "SignIndex": 2568,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING BUS STOP"
+ },
+ {
+   "SignIndex": 2569,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING BUS STOP"
+ },
+ {
+   "SignIndex": 2570,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING BUS STOP"
+ },
+ {
+   "SignIndex": 2571,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING BUS STOP"
+ },
+ {
+   "SignIndex": 2572,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7PM SUN -7AM MON"
+ },
+ {
+   "SignIndex": 2573,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7PM SUN -7AM MON"
+ },
+ {
+   "SignIndex": 2574,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7PM SUN -7AM MON"
+ },
+ {
+   "SignIndex": 2575,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 6PM - 7AM MON-SAT "
+ },
+ {
+   "SignIndex": 2576,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 6PM - 7AM MON-SAT "
+ },
+ {
+   "SignIndex": 2577,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 6PM - 7AM MON-SAT "
+ },
+ {
+   "SignIndex": 2578,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING CHURCH"
+ },
+ {
+   "SignIndex": 2579,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING CHURCH"
+ },
+ {
+   "SignIndex": 2580,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING CHURCH"
+ },
+ {
+   "SignIndex": 2581,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-9AM MON-FRI"
+ },
+ {
+   "SignIndex": 2582,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-9AM MON-FRI"
+ },
+ {
+   "SignIndex": 2583,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-9AM MON-FRI"
+ },
+ {
+   "SignIndex": 2584,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM WED - 6AM THURS"
+ },
+ {
+   "SignIndex": 2585,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM WED - 6AM THURS"
+ },
+ {
+   "SignIndex": 2586,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM WED - 6AM THURS"
+ },
+ {
+   "SignIndex": 2587,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM TUE - 6AM WED"
+ },
+ {
+   "SignIndex": 2588,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM TUE - 6AM WED"
+ },
+ {
+   "SignIndex": 2589,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM TUE - 6AM WED"
+ },
+ {
+   "SignIndex": 2590,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 7PM MON"
+ },
+ {
+   "SignIndex": 2591,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 7PM MON"
+ },
+ {
+   "SignIndex": 2592,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 7PM MON"
+ },
+ {
+   "SignIndex": 2593,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 7PM TUE"
+ },
+ {
+   "SignIndex": 2594,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 7PM TUE"
+ },
+ {
+   "SignIndex": 2595,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 7PM TUE"
+ },
+ {
+   "SignIndex": 2596,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM - 9AM TUE THUR SAT SUN"
+ },
+ {
+   "SignIndex": 2597,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM - 9AM TUE THUR SAT SUN"
+ },
+ {
+   "SignIndex": 2598,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM - 9AM TUE THUR SAT SUN"
+ },
+ {
+   "SignIndex": 2599,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM - 9AM MON WED FRI"
+ },
+ {
+   "SignIndex": 2600,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM - 9AM MON WED FRI"
+ },
+ {
+   "SignIndex": 2601,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM - 9AM MON WED FRI"
+ },
+ {
+   "SignIndex": 2605,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT BUSES 7AM-10AM 2PM-5PM"
+ },
+ {
+   "SignIndex": 2606,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT BUSES 7AM-10AM 2PM-5PM"
+ },
+ {
+   "SignIndex": 2607,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT BUSES 7AM-10AM 2PM-5PM"
+ },
+ {
+   "SignIndex": 2608,
+   "Arrow": "Left",
+   "CompleteText": "ILLEGAL TO PARK ON CROSSWALK"
+ },
+ {
+   "SignIndex": 2609,
+   "Arrow": "Right",
+   "CompleteText": "ILLEGAL TO PARK ON CROSSWALK"
+ },
+ {
+   "SignIndex": 2610,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 11PM TUE TO 7AM WED"
+ },
+ {
+   "SignIndex": 2611,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 7PM MON"
+ },
+ {
+   "SignIndex": 2612,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 7PM MON"
+ },
+ {
+   "SignIndex": 2613,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 7PM MON"
+ },
+ {
+   "SignIndex": 2614,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 7PM TUE"
+ },
+ {
+   "SignIndex": 2615,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 7PM TUE"
+ },
+ {
+   "SignIndex": 2616,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 7PM TUE"
+ },
+ {
+   "SignIndex": 2617,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 5PM TUE"
+ },
+ {
+   "SignIndex": 2618,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 5PM TUE"
+ },
+ {
+   "SignIndex": 2619,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 5PM TUE"
+ },
+ {
+   "SignIndex": 2620,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 5PM MON"
+ },
+ {
+   "SignIndex": 2621,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 5PM MON"
+ },
+ {
+   "SignIndex": 2622,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 5PM MON"
+ },
+ {
+   "SignIndex": 2623,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM - 3PM MON"
+ },
+ {
+   "SignIndex": 2624,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM - 3PM MON"
+ },
+ {
+   "SignIndex": 2625,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM - 3PM MON"
+ },
+ {
+   "SignIndex": 2626,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM - 3PM TUE"
+ },
+ {
+   "SignIndex": 2627,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM - 3PM TUE"
+ },
+ {
+   "SignIndex": 2628,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM - 3PM TUE"
+ },
+ {
+   "SignIndex": 2629,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12 AM - 6PM "
+ },
+ {
+   "SignIndex": 2630,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12 AM - 6PM "
+ },
+ {
+   "SignIndex": 2631,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12 AM - 6PM "
+ },
+ {
+   "SignIndex": 2632,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 5PM TUE"
+ },
+ {
+   "SignIndex": 2633,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 5PM TUE"
+ },
+ {
+   "SignIndex": 2634,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 5PM TUE"
+ },
+ {
+   "SignIndex": 2635,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 5PM MON"
+ },
+ {
+   "SignIndex": 2636,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 5PM MON"
+ },
+ {
+   "SignIndex": 2637,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 5PM MON"
+ },
+ {
+   "SignIndex": 2638,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING STUDENT DROP OFF "
+ },
+ {
+   "SignIndex": 2645,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL BUSES "
+ },
+ {
+   "SignIndex": 2646,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL BUSES "
+ },
+ {
+   "SignIndex": 2647,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL BUSES "
+ },
+ {
+   "SignIndex": 2648,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 2649,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 2650,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 2651,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT POLICE"
+ },
+ {
+   "SignIndex": 2652,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT POLICE"
+ },
+ {
+   "SignIndex": 2653,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT POLICE"
+ },
+ {
+   "SignIndex": 2654,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL VEHICLES 8AM-3PM"
+ },
+ {
+   "SignIndex": 2655,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL VEHICLES 8AM-3PM"
+ },
+ {
+   "SignIndex": 2656,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL VEHICLES 8AM-3PM"
+ },
+ {
+   "SignIndex": 2657,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING PRIVATE DRIVE"
+ },
+ {
+   "SignIndex": 2658,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM TUESDAY"
+ },
+ {
+   "SignIndex": 2659,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM TUESDAY"
+ },
+ {
+   "SignIndex": 2660,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM TUESDAY"
+ },
+ {
+   "SignIndex": 2661,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM WED TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2662,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM WED TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2663,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM WED TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2664,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM-6PM"
+ },
+ {
+   "SignIndex": 2665,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM-6PM"
+ },
+ {
+   "SignIndex": 2666,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM-6PM"
+ },
+ {
+   "SignIndex": 2667,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM-6PM TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2668,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM-6PM TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2669,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM-6PM TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2670,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9PM WED-7AM THUR"
+ },
+ {
+   "SignIndex": 2671,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9PM WED-7AM THUR"
+ },
+ {
+   "SignIndex": 2672,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9PM WED-7AM THUR"
+ },
+ {
+   "SignIndex": 2673,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9PM THUR-7AM FRI"
+ },
+ {
+   "SignIndex": 2674,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9PM THUR-7AM FRI"
+ },
+ {
+   "SignIndex": 2675,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9PM THUR-7AM FRI"
+ },
+ {
+   "SignIndex": 2676,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM-4PM MON-FRI SCHOOL DROP OFF & PICKUP"
+ },
+ {
+   "SignIndex": 2677,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM-4PM MON-FRI SCHOOL DROP OFF & PICKUP"
+ },
+ {
+   "SignIndex": 2678,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM-4PM MON-FRI SCHOOL DROP OFF & PICKUP"
+ },
+ {
+   "SignIndex": 2679,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM - 2PM THURSDAY TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2680,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM - 2PM THURSDAY TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2681,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM - 2PM THURSDAY TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2682,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM-11AM THURSDAY "
+ },
+ {
+   "SignIndex": 2683,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM-11AM THURSDAY "
+ },
+ {
+   "SignIndex": 2684,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM-11AM THURSDAY "
+ },
+ {
+   "SignIndex": 2685,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM-11AM FRIDAY"
+ },
+ {
+   "SignIndex": 2686,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM-11AM FRIDAY"
+ },
+ {
+   "SignIndex": 2687,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM-11AM FRIDAY"
+ },
+ {
+   "SignIndex": 2688,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES 9AM-2PM SUNDAY"
+ },
+ {
+   "SignIndex": 2689,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES 9AM-2PM SUNDAY"
+ },
+ {
+   "SignIndex": 2690,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES 9AM-2PM SUNDAY"
+ },
+ {
+   "SignIndex": 2691,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE. 7AM-6PM, MON-SAT 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2692,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE. 7AM-6PM, MON-SAT 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2693,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING UNLOADING ZONE 8AM-6PM"
+ },
+ {
+   "SignIndex": 2694,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING UNLOADING ZONE 8AM-6PM"
+ },
+ {
+   "SignIndex": 2695,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING UNLOADING ZONE 8AM-6PM"
+ },
+ {
+   "SignIndex": 2696,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL VEHICLES 7AM-6PM"
+ },
+ {
+   "SignIndex": 2697,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL VEHICLES 7AM-6PM"
+ },
+ {
+   "SignIndex": 2698,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL VEHICLES 7AM-6PM"
+ },
+ {
+   "SignIndex": 2699,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 10AM-12PM SUNDAY"
+ },
+ {
+   "SignIndex": 2700,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 10AM-12PM SUNDAY"
+ },
+ {
+   "SignIndex": 2701,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 10AM-12PM SUNDAY"
+ },
+ {
+   "SignIndex": 2702,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 12AM-7AM TUE THUR"
+ },
+ {
+   "SignIndex": 2703,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 12AM-7AM TUE THUR"
+ },
+ {
+   "SignIndex": 2704,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 12AM-7AM TUE THUR"
+ },
+ {
+   "SignIndex": 2705,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-3PM TUE THUR"
+ },
+ {
+   "SignIndex": 2706,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-3PM TUE THUR"
+ },
+ {
+   "SignIndex": 2707,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-3PM TUE THUR"
+ },
+ {
+   "SignIndex": 2708,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM SUN -8AM MON"
+ },
+ {
+   "SignIndex": 2709,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM SUN -8AM MON"
+ },
+ {
+   "SignIndex": 2710,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM SUN -8AM MON"
+ },
+ {
+   "SignIndex": 2711,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING CROSSWALK"
+ },
+ {
+   "SignIndex": 2712,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING VALET VEHICLES ONLY TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2713,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING VALET VEHICLES ONLY TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2714,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING VALET VEHICLES ONLY TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2715,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL CITY VEHICLES"
+ },
+ {
+   "SignIndex": 2716,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT NEW YORK PRESS"
+ },
+ {
+   "SignIndex": 2717,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT NEW YORK PRESS"
+ },
+ {
+   "SignIndex": 2718,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT NEW YORK PRESS"
+ },
+ {
+   "SignIndex": 2719,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL SCHOOL DISTRICT VEHICLES"
+ },
+ {
+   "SignIndex": 2720,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL SCHOOL DISTRICT VEHICLES"
+ },
+ {
+   "SignIndex": 2721,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT OFFICIAL SCHOOL DISTRICT VEHICLES"
+ },
+ {
+   "SignIndex": 2722,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING MON-FRI 7AM-6PM EXCEPT OFFICIAL CITY CARS"
+ },
+ {
+   "SignIndex": 2723,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING MON-FRI 7AM-6PM EXCEPT OFFICIAL CITY CARS"
+ },
+ {
+   "SignIndex": 2724,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING MON-FRI 7AM-6PM EXCEPT OFFICIAL CITY CARS"
+ },
+ {
+   "SignIndex": 2725,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT D.A. INVESTIGATOR"
+ },
+ {
+   "SignIndex": 2726,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT D.A. INVESTIGATOR"
+ },
+ {
+   "SignIndex": 2727,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT CITY COURT JUDGE"
+ },
+ {
+   "SignIndex": 2728,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT CITY COURT JUDGE"
+ },
+ {
+   "SignIndex": 2729,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT CITY COURT JUDGE"
+ },
+ {
+   "SignIndex": 2730,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT CORP COUNSEL TREASURER COMPTROLLER BUDGET DIR"
+ },
+ {
+   "SignIndex": 2731,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT CORP COUNSEL TREASURER COMPTROLLER BUDGET DIR"
+ },
+ {
+   "SignIndex": 2732,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT CORP COUNSEL TREASURER COMPTROLLER BUDGET DIR"
+ },
+ {
+   "SignIndex": 2733,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT MAYOR'S OFFICE"
+ },
+ {
+   "SignIndex": 2734,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT MAYOR'S OFFICE"
+ },
+ {
+   "SignIndex": 2735,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT MAYOR'S OFFICE"
+ },
+ {
+   "SignIndex": 2736,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING LOADING ZONE"
+ },
+ {
+   "SignIndex": 2737,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT BUSES"
+ },
+ {
+   "SignIndex": 2738,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT BUSES"
+ },
+ {
+   "SignIndex": 2739,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT BUSES"
+ },
+ {
+   "SignIndex": 2740,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING LOADING ZONE. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2741,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2742,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2743,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES 9AM-2PM SAT-SUN"
+ },
+ {
+   "SignIndex": 2744,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES 9AM-2PM SAT-SUN"
+ },
+ {
+   "SignIndex": 2745,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT CHURCH SERVICES 9AM-2PM SAT-SUN"
+ },
+ {
+   "SignIndex": 2746,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 9AM-12PM TUE TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 2747,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING LOADING ZONE 7AM-11AM MON-FRI 30 MIN LIMIT"
+ },
+ {
+   "SignIndex": 2748,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE 7AM-11AM MON-FRI 30 MIN LIMIT"
+ },
+ {
+   "SignIndex": 2749,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE 7AM-11AM MON-FRI 30 MIN LIMIT"
+ },
+ {
+   "SignIndex": 2750,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE. 8AM-6PM 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2751,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE. 8AM-6PM 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2752,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING BETWEEN SIGNS"
+ },
+ {
+   "SignIndex": 2753,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-3PM FRI"
+ },
+ {
+   "SignIndex": 2754,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-3PM FRI"
+ },
+ {
+   "SignIndex": 2755,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-3PM FRI"
+ },
+ {
+   "SignIndex": 2756,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING LOADING ZONE 7AM-9AM 3PM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 2757,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING LOADING ZONE 7AM-9AM 3PM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 2758,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 2759,
+   "Arrow": "Both",
+   "CompleteText": "BUS LANE NO PARKING 7:30AM-8AM 3:30PM-4:30PM"
+ },
+ {
+   "SignIndex": 2760,
+   "Arrow": "Right",
+   "CompleteText": "BUS LANE NO PARKING 7:30AM-8AM 3:30PM-4:30PM"
+ },
+ {
+   "SignIndex": 2761,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 2762,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT 9AM-12PM THURSDAY"
+ },
+ {
+   "SignIndex": 2763,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT 9AM-12PM THURSDAY"
+ },
+ {
+   "SignIndex": 2764,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT 9AM-12PM THURSDAY"
+ },
+ {
+   "SignIndex": 2765,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT 9AM-12PM THURSDAY"
+ },
+ {
+   "SignIndex": 2766,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT 9AM-12PM THURSDAY"
+ },
+ {
+   "SignIndex": 2767,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT 9AM-12PM THURSDAY"
+ },
+ {
+   "SignIndex": 2768,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM - 4PM WED"
+ },
+ {
+   "SignIndex": 2769,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM - 4PM WED"
+ },
+ {
+   "SignIndex": 2770,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM - 4PM WED"
+ },
+ {
+   "SignIndex": 2771,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 9AM-12PM WED"
+ },
+ {
+   "SignIndex": 2772,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 9AM-12PM WED"
+ },
+ {
+   "SignIndex": 2773,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 9AM-12PM WED"
+ },
+ {
+   "SignIndex": 2774,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING BETWEEN SIGNS"
+ },
+ {
+   "SignIndex": 2775,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-4PM THUR"
+ },
+ {
+   "SignIndex": 2776,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-4PM THUR"
+ },
+ {
+   "SignIndex": 2777,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-4PM THUR"
+ },
+ {
+   "SignIndex": 2778,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 9AM-12PM WED"
+ },
+ {
+   "SignIndex": 2779,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING FIRE LANE"
+ },
+ {
+   "SignIndex": 2780,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 6PM-6AM"
+ },
+ {
+   "SignIndex": 2781,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 6PM-6AM"
+ },
+ {
+   "SignIndex": 2782,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 6PM-6AM"
+ },
+ {
+   "SignIndex": 2783,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING CHURCH SERVICES 8AM-1PM SUN"
+ },
+ {
+   "SignIndex": 2784,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING CHURCH SERVICES 8AM-1PM SUN"
+ },
+ {
+   "SignIndex": 2785,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING CHURCH SERVICES 8AM-1PM SUN"
+ },
+ {
+   "SignIndex": 2786,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 8AM-4PM"
+ },
+ {
+   "SignIndex": 2787,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 8AM-4PM"
+ },
+ {
+   "SignIndex": 2788,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 8AM-4PM"
+ },
+ {
+   "SignIndex": 2789,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 9AM-12PM MON"
+ },
+ {
+   "SignIndex": 2790,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 9AM-12PM TUESDAY"
+ },
+ {
+   "SignIndex": 2791,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 7AM-6PM MON-FRI "
+ },
+ {
+   "SignIndex": 2792,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 7AM-6PM MON-FRI "
+ },
+ {
+   "SignIndex": 2793,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 7AM-6PM MON-FRI "
+ },
+ {
+   "SignIndex": 2794,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING UNLOADING ZONE. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2795,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING UNLOADING ZONE. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2796,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING UNLOADING ZONE. 30 MINUTE LIMIT"
+ },
+ {
+   "SignIndex": 2797,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING EXCEPT DELIVERY TRUCK "
+ },
+ {
+   "SignIndex": 2798,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT DELIVERY TRUCK "
+ },
+ {
+   "SignIndex": 2799,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT DELIVERY TRUCK "
+ },
+ {
+   "SignIndex": 2800,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 12AM - 7AM WED"
+ },
+ {
+   "SignIndex": 2801,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM SUN-6AM MON"
+ },
+ {
+   "SignIndex": 2802,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 6PM TUES-6PM WED"
+ },
+ {
+   "SignIndex": 2803,
+   "Arrow": "None",
+   "CompleteText": "NO PARKING 12PM-3PM TUES"
+ },
+ {
+   "SignIndex": 2804,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL VEHICLES 7:30AM-5:30PM MON-FRI"
+ },
+ {
+   "SignIndex": 2805,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING EXCEPT SCHOOL VEHICLES 7:30AM-5:30PM MON-FRI"
+ },
+ {
+   "SignIndex": 2806,
+   "Arrow": "Both",
+   "CompleteText": "NO PARKING 11PM MON-8AM TUES"
+ },
+ {
+   "SignIndex": 2807,
+   "Arrow": "Left",
+   "CompleteText": "NO PARKING 11PM MON-8AM TUES"
+ },
+ {
+   "SignIndex": 2808,
+   "Arrow": "Right",
+   "CompleteText": "NO PARKING 11PM MON-8AM TUES"
+ },
+ {
+   "SignIndex": 3063,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3064,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3065,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON-8AM TUES"
+ },
+ {
+   "SignIndex": 3066,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3067,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM SUN- 6PM MON"
+ },
+ {
+   "SignIndex": 3068,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM SUN- 6PM MON"
+ },
+ {
+   "SignIndex": 3069,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM SUN- 6PM MON"
+ },
+ {
+   "SignIndex": 3070,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 9AM-3PM MONDAY"
+ },
+ {
+   "SignIndex": 3071,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING ANY TIME TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 3072,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING ANY TIME TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 3073,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING ANY TIME TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 3074,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING ANY TIME"
+ },
+ {
+   "SignIndex": 3075,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING ANY TIME"
+ },
+ {
+   "SignIndex": 3076,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING ANY TIME"
+ },
+ {
+   "SignIndex": 3077,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3078,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3079,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT BUSES"
+ },
+ {
+   "SignIndex": 3080,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT BUSES"
+ },
+ {
+   "SignIndex": 3081,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 3PM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 3082,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 3PM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 3083,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING ANY TIME"
+ },
+ {
+   "SignIndex": 3084,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING ANY TIME"
+ },
+ {
+   "SignIndex": 3085,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING ANY TIME"
+ },
+ {
+   "SignIndex": 3086,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT BUSES"
+ },
+ {
+   "SignIndex": 3087,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT BUSES"
+ },
+ {
+   "SignIndex": 3088,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING ANY TIME"
+ },
+ {
+   "SignIndex": 3089,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING ANY TIME"
+ },
+ {
+   "SignIndex": 3090,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING ANY TIME"
+ },
+ {
+   "SignIndex": 3091,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3092,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3093,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3094,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3095,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3096,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3097,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING 8AM - 6PM MON - FRI"
+ },
+ {
+   "SignIndex": 3098,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING 8AM - 6PM MON - FRI"
+ },
+ {
+   "SignIndex": 3099,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING 8AM - 6PM MON - FRI"
+ },
+ {
+   "SignIndex": 3100,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING 8AM - 6PM MON - FRI"
+ },
+ {
+   "SignIndex": 3101,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING 8AM - 6PM MON - FRI"
+ },
+ {
+   "SignIndex": 3102,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING 8AM - 6PM MON - FRI"
+ },
+ {
+   "SignIndex": 3103,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING ANY TIME"
+ },
+ {
+   "SignIndex": 3104,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING ANY TIME"
+ },
+ {
+   "SignIndex": 3105,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING ANY TIME"
+ },
+ {
+   "SignIndex": 3106,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING EXCEPT SCHOOL VEHICLES 8AM-4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3107,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING EXCEPT SCHOOL VEHICLES 8AM-4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3108,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING EXCEPT SCHOOL VEHICLES 8AM-4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3109,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7AM - 4PM MON - FRI"
+ },
+ {
+   "SignIndex": 3110,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7AM - 4PM MON - FRI"
+ },
+ {
+   "SignIndex": 3111,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7AM - 4PM MON - FRI"
+ },
+ {
+   "SignIndex": 3112,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3113,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3114,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3115,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3116,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3117,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3118,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3119,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3120,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3121,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3122,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3123,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3124,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3125,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3126,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3127,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3128,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3129,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7AM-3PM WED"
+ },
+ {
+   "SignIndex": 3130,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3131,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3132,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3133,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3134,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3135,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3136,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3137,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3138,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3139,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3140,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3141,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3142,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3143,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3144,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3145,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3146,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3147,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3148,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3149,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3150,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3151,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3152,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3153,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3154,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM TUES 7AM WED"
+ },
+ {
+   "SignIndex": 3155,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM TUES 7AM WED"
+ },
+ {
+   "SignIndex": 3156,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM TUES 7AM WED"
+ },
+ {
+   "SignIndex": 3157,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM TUES 7AM WED"
+ },
+ {
+   "SignIndex": 3158,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM TUES 7AM WED"
+ },
+ {
+   "SignIndex": 3159,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM TUES 7AM WED"
+ },
+ {
+   "SignIndex": 3160,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3161,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3162,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3163,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3164,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3165,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3166,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3167,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3168,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3169,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3170,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3171,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3172,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3173,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3174,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3175,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3178,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3179,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3180,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3181,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3182,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3183,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3184,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3185,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3186,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3187,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3188,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3189,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3190,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3191,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3192,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3193,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3194,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3195,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 11PM TUES - 7AM WED"
+ },
+ {
+   "SignIndex": 3196,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3197,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3198,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3199,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3200,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3201,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3202,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3203,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3204,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3205,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3206,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3207,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 8AM WED"
+ },
+ {
+   "SignIndex": 3208,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3209,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3210,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3211,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3212,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3213,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3214,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3215,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3216,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3217,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3218,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3219,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM TUE-WED"
+ },
+ {
+   "SignIndex": 3220,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3221,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3222,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3223,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3224,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3225,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3226,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3227,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3228,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3229,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3230,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3231,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3232,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3233,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM WED-THUR"
+ },
+ {
+   "SignIndex": 3234,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3235,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3236,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3237,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3238,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3239,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3240,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3241,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3242,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3243,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT POLICE"
+ },
+ {
+   "SignIndex": 3244,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT POLICE"
+ },
+ {
+   "SignIndex": 3245,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT POLICE"
+ },
+ {
+   "SignIndex": 3248,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3249,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3250,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3251,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3252,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3253,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3254,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3255,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3256,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3257,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3258,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3259,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3260,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3261,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT BUSES"
+ },
+ {
+   "SignIndex": 3262,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3263,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3264,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3265,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3266,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3267,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3268,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3269,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3270,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3271,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3272,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3273,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3274,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3275,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3276,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3277,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3278,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3279,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3280,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3281,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3282,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3283,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3284,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM SUN-7AM MON"
+ },
+ {
+   "SignIndex": 3285,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM SUN-7AM MON"
+ },
+ {
+   "SignIndex": 3286,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM SUN-7AM MON"
+ },
+ {
+   "SignIndex": 3287,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES 7AM-4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3288,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES 7AM-4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3289,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES 7AM-4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3290,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3291,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3292,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3293,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3294,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3295,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3296,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3297,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3298,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3299,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3300,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3301,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7PM MON-7PM TUE"
+ },
+ {
+   "SignIndex": 3302,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 11PM THUR-9AM FRI"
+ },
+ {
+   "SignIndex": 3303,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 11PM THUR-9AM FRI"
+ },
+ {
+   "SignIndex": 3304,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 11PM THUR-9AM FRI"
+ },
+ {
+   "SignIndex": 3305,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM THUR-9AM FRI"
+ },
+ {
+   "SignIndex": 3306,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 11PM THUR-9AM FRI"
+ },
+ {
+   "SignIndex": 3307,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 11PM THUR-9AM FRI"
+ },
+ {
+   "SignIndex": 3308,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3309,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3310,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3311,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3312,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3313,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3314,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3315,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3316,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3317,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3318,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3319,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3320,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3321,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3322,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3323,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3324,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3325,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 9AM MON"
+ },
+ {
+   "SignIndex": 3326,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING ANY TIME"
+ },
+ {
+   "SignIndex": 3327,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3328,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3329,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3330,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3331,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3332,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3333,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3334,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3335,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3336,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3337,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3338,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3339,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3340,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3341,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3342,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3343,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3344,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3345,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3346,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3347,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3348,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3349,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3350,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 7AM TUE"
+ },
+ {
+   "SignIndex": 3351,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 5PM WED - 5PM THUR "
+ },
+ {
+   "SignIndex": 3352,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 5PM WED - 5PM THUR "
+ },
+ {
+   "SignIndex": 3353,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 5PM WED - 5PM THUR "
+ },
+ {
+   "SignIndex": 3354,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 5PM WED - 5PM THUR "
+ },
+ {
+   "SignIndex": 3355,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 5PM WED - 5PM THUR "
+ },
+ {
+   "SignIndex": 3356,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 5PM WED - 5PM THUR "
+ },
+ {
+   "SignIndex": 3357,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3358,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3359,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3360,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3361,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3362,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3363,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 7PM WED 7AM THUR"
+ },
+ {
+   "SignIndex": 3364,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING EXCEPT 8:30AM-2PM SUN-FRI"
+ },
+ {
+   "SignIndex": 3365,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING EXCEPT 8:30AM-2PM SUN-FRI"
+ },
+ {
+   "SignIndex": 3366,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING EXCEPT 8:30AM-2PM SUN-FRI"
+ },
+ {
+   "SignIndex": 3367,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 3368,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 3369,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 3370,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM MON - 7AM TUE "
+ },
+ {
+   "SignIndex": 3371,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM MON - 7AM TUE "
+ },
+ {
+   "SignIndex": 3372,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM MON - 7AM TUE "
+ },
+ {
+   "SignIndex": 3373,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM MON - 7AM TUE "
+ },
+ {
+   "SignIndex": 3374,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM MON - 7AM TUE "
+ },
+ {
+   "SignIndex": 3375,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM MON - 7AM TUE "
+ },
+ {
+   "SignIndex": 3376,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3377,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3378,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3379,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3380,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3381,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3382,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 8PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3383,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 8PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3384,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 8PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3385,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 7AM MON "
+ },
+ {
+   "SignIndex": 3386,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 7AM MON "
+ },
+ {
+   "SignIndex": 3387,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 7AM MON "
+ },
+ {
+   "SignIndex": 3388,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT BUSES"
+ },
+ {
+   "SignIndex": 3389,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT BUSES"
+ },
+ {
+   "SignIndex": 3390,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES 7AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 3391,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES 7AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 3392,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES 7AM-5PM MON-FRI"
+ },
+ {
+   "SignIndex": 3393,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 3394,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 3395,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 3396,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT MON 6PM - 6PM TUES"
+ },
+ {
+   "SignIndex": 3397,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 9AM-3PM MONDAY"
+ },
+ {
+   "SignIndex": 3398,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 9AM-3PM MONDAY"
+ },
+ {
+   "SignIndex": 3399,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 9AM-3PM MONDAY"
+ },
+ {
+   "SignIndex": 3402,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 3403,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 3404,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 3405,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING EXCEPT ACCA OR EMERGENCY VEHICLES"
+ },
+ {
+   "SignIndex": 3406,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING EXCEPT ACCA OR EMERGENCY VEHICLES"
+ },
+ {
+   "SignIndex": 3407,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING EXCEPT ACCA OR EMERGENCY VEHICLES"
+ },
+ {
+   "SignIndex": 3408,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING 7AM-4PM MON"
+ },
+ {
+   "SignIndex": 3409,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3410,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3411,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3412,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING HERE TO CORNER"
+ },
+ {
+   "SignIndex": 3413,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 9AM-2PM FRIDAY"
+ },
+ {
+   "SignIndex": 3414,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 9AM-2PM FRIDAY"
+ },
+ {
+   "SignIndex": 3415,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 9AM-2PM FRIDAY"
+ },
+ {
+   "SignIndex": 3416,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-2PM FRIDAY"
+ },
+ {
+   "SignIndex": 3417,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-2PM FRIDAY"
+ },
+ {
+   "SignIndex": 3418,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-2PM FRIDAY"
+ },
+ {
+   "SignIndex": 3419,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3420,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING 6PM WED - 6PM THUR"
+ },
+ {
+   "SignIndex": 3421,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3422,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3423,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3424,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3425,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3426,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3427,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3428,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3429,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3430,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3431,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3432,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3433,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3434,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3435,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3436,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3437,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3438,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 8PM TUE - 8PM WED"
+ },
+ {
+   "SignIndex": 3445,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 7AM-7PM "
+ },
+ {
+   "SignIndex": 3446,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 7AM-7PM "
+ },
+ {
+   "SignIndex": 3447,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 7AM-7PM "
+ },
+ {
+   "SignIndex": 3448,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING 8:30AM-2PM SUN-FRI "
+ },
+ {
+   "SignIndex": 3449,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING 8:30AM-2PM SUN-FRI "
+ },
+ {
+   "SignIndex": 3450,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING 8:30AM-2PM SUN-FRI "
+ },
+ {
+   "SignIndex": 3451,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 8AM - 4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3452,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 8AM - 4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3453,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 8AM - 4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3454,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3455,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3456,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3457,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3458,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3459,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3460,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3461,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 7PM TUE - 7AM WED"
+ },
+ {
+   "SignIndex": 3462,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 9AM-2PM THUR"
+ },
+ {
+   "SignIndex": 3463,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 9AM-2PM THUR"
+ },
+ {
+   "SignIndex": 3464,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 9AM-2PM THUR"
+ },
+ {
+   "SignIndex": 3465,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-2PM THUR"
+ },
+ {
+   "SignIndex": 3466,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-2PM THUR"
+ },
+ {
+   "SignIndex": 3467,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-2PM THUR"
+ },
+ {
+   "SignIndex": 3468,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 3469,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 3470,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM WED - 8AM THUR"
+ },
+ {
+   "SignIndex": 3471,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 2PM - 4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3472,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 2PM - 4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3473,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 2PM - 4PM MON-FRI"
+ },
+ {
+   "SignIndex": 3474,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM TUE 8AM THUR"
+ },
+ {
+   "SignIndex": 3475,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM TUE 8AM THUR"
+ },
+ {
+   "SignIndex": 3476,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM TUE 8AM THUR"
+ },
+ {
+   "SignIndex": 3477,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE 8AM THUR"
+ },
+ {
+   "SignIndex": 3478,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE 8AM THUR"
+ },
+ {
+   "SignIndex": 3479,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM TUE 8AM THUR"
+ },
+ {
+   "SignIndex": 3480,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3481,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3482,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3486,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3487,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3488,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3489,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3490,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3491,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3492,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3493,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3494,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3495,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3496,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3497,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3498,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3499,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3500,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM MON-7AM TUE"
+ },
+ {
+   "SignIndex": 3501,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7AM-5PM MON"
+ },
+ {
+   "SignIndex": 3502,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7AM-5PM MON"
+ },
+ {
+   "SignIndex": 3503,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7AM-5PM MON"
+ },
+ {
+   "SignIndex": 3504,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3505,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3506,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3507,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3508,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3509,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3510,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3511,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3512,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3513,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3514,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3515,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3516,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-3PM MONDAY"
+ },
+ {
+   "SignIndex": 3517,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-3PM MONDAY"
+ },
+ {
+   "SignIndex": 3518,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-3PM MONDAY"
+ },
+ {
+   "SignIndex": 3519,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 9AM-3PM MONDAY"
+ },
+ {
+   "SignIndex": 3520,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 9AM-3PM MONDAY"
+ },
+ {
+   "SignIndex": 3521,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING 7AM-3PM MON"
+ },
+ {
+   "SignIndex": 3522,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING ANY TIME TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 3523,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING ANY TIME TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 3524,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING ANY TIME TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 3525,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT COURT OF APPEALS"
+ },
+ {
+   "SignIndex": 3526,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT COURT OF APPEALS"
+ },
+ {
+   "SignIndex": 3527,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT COURT OF APPEALS"
+ },
+ {
+   "SignIndex": 3528,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3529,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3530,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3531,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3532,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3533,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3534,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3535,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3536,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3537,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3538,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3539,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING12PM-2PM WED"
+ },
+ {
+   "SignIndex": 3540,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3541,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3542,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3543,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3544,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3545,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3546,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3547,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3548,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3549,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3550,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3551,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3552,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM WED"
+ },
+ {
+   "SignIndex": 3553,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES "
+ },
+ {
+   "SignIndex": 3554,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES "
+ },
+ {
+   "SignIndex": 3555,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES "
+ },
+ {
+   "SignIndex": 3556,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES "
+ },
+ {
+   "SignIndex": 3557,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES "
+ },
+ {
+   "SignIndex": 3558,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT SCHOOL BUSES "
+ },
+ {
+   "SignIndex": 3559,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3560,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3561,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING DO NOT BLOCK GATE TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 3562,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING DO NOT BLOCK GATE TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 3563,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING DO NOT BLOCK GATE TOW AWAY ZONE"
+ },
+ {
+   "SignIndex": 3564,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING 11PM SUN - 7AM MON"
+ },
+ {
+   "SignIndex": 3565,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 7PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3566,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 7PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3567,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 7PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3568,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3569,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3570,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3571,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3572,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3573,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3574,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3575,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3576,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3577,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3578,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3579,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3580,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3581,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 6PM THUR - 6PM FRI"
+ },
+ {
+   "SignIndex": 3582,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3583,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3584,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3585,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3586,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3587,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING BUS STOP"
+ },
+ {
+   "SignIndex": 3588,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING BUS STOP"
+ },
+ {
+   "SignIndex": 3589,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING BUS STOP"
+ },
+ {
+   "SignIndex": 3590,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 12PM-3PM THUR"
+ },
+ {
+   "SignIndex": 3591,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING 6PM SUN-7AM MON"
+ },
+ {
+   "SignIndex": 3592,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT TUES 6PM - 6PM WED"
+ },
+ {
+   "SignIndex": 3593,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 3594,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 3595,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 7AM-6PM MON-FRI"
+ },
+ {
+   "SignIndex": 3599,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING Except 6PM-12AM"
+ },
+ {
+   "SignIndex": 3600,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING Except 6PM-12AM"
+ },
+ {
+   "SignIndex": 3601,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING Except 6PM-12AM"
+ },
+ {
+   "SignIndex": 3605,
+   "Arrow": "Both",
+   "CompleteText": "NO STANDING BUS STOP"
+ },
+ {
+   "SignIndex": 3606,
+   "Arrow": "Left",
+   "CompleteText": "NO STANDING BUS STOP"
+ },
+ {
+   "SignIndex": 3607,
+   "Arrow": "Right",
+   "CompleteText": "NO STANDING BUS STOP"
+ },
+ {
+   "SignIndex": 3608,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT OFFICIAL CITY CARS"
+ },
+ {
+   "SignIndex": 3609,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT OFFICIAL CITY CARS"
+ },
+ {
+   "SignIndex": 3610,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 7AM-6PM MON-FRI "
+ },
+ {
+   "SignIndex": 3611,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 7AM-6PM MON-FRI "
+ },
+ {
+   "SignIndex": 3612,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 7AM-6PM MON-FRI "
+ },
+ {
+   "SignIndex": 3613,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3614,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3615,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3616,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3617,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3618,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3619,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3620,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3621,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3622,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3623,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3624,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 11PM-7AM WED-THUR"
+ },
+ {
+   "SignIndex": 3625,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3626,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING 6PM SUN - 6PM MON"
+ },
+ {
+   "SignIndex": 3627,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 3PM - 6PM MON-FRI"
+ },
+ {
+   "SignIndex": 3628,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 3PM - 6PM MON-FRI"
+ },
+ {
+   "SignIndex": 3629,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT BUSES 3PM - 6PM MON-FRI"
+ },
+ {
+   "SignIndex": 3633,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM MON-TUE"
+ },
+ {
+   "SignIndex": 3634,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM MON-TUE"
+ },
+ {
+   "SignIndex": 3635,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM MON-TUE"
+ },
+ {
+   "SignIndex": 3636,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3637,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 3638,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 3639,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 3640,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 3641,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 3642,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 12AM-7AM MON"
+ },
+ {
+   "SignIndex": 3643,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3644,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING 9AM-3PM WED"
+ },
+ {
+   "SignIndex": 3645,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING 7PM SUN 7AM MON"
+ },
+ {
+   "SignIndex": 3647,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3648,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3649,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3650,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3651,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 11PM MON - 8AM TUE"
+ },
+ {
+   "SignIndex": 3652,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-12PM THUR"
+ },
+ {
+   "SignIndex": 3653,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-12PM THUR"
+ },
+ {
+   "SignIndex": 3654,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 9AM-12PM THUR"
+ },
+ {
+   "SignIndex": 3655,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 6PM SUN - 7AM MON "
+ },
+ {
+   "SignIndex": 3656,
+   "Arrow": "Both",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM MON-TUE"
+ },
+ {
+   "SignIndex": 3657,
+   "Arrow": "Left",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM MON-TUE"
+ },
+ {
+   "SignIndex": 3658,
+   "Arrow": "Right",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM MON-TUE"
+ },
+ {
+   "SignIndex": 3659,
+   "Arrow": "None",
+   "CompleteText": "NO STOPPING EXCEPT 8PM-8AM MON-TUE"
+ },
+ {
+   "SignIndex": 5001,
+   "Arrow": "None",
+   "CompleteText": "Tow-Away Zone"
+ },
+ {
+   "SignIndex": 5002,
+   "Arrow": "Left",
+   "CompleteText": "Reserved Parking (Handicap)"
+ },
+ {
+   "SignIndex": 5003,
+   "Arrow": "Right",
+   "CompleteText": "Reserved Parking (Handicap)"
+ },
+ {
+   "SignIndex": 5004,
+   "Arrow": "None",
+   "CompleteText": "SNOW EMERGENCY NO PARKING CITY OF ALBANY EVEN/ODD PARKING ALL ROADS DURING SNOW EMERGENCY INFO 476-SNOW"
+ },
+ {
+   "SignIndex": 5005,
+   "Arrow": "None",
+   "CompleteText": "DURING A DECLARED SNOW EMERGENCY THIS SIDE OF ____ ODD NUMBERED"
+ },
+ {
+   "SignIndex": 5006,
+   "Arrow": "None",
+   "CompleteText": "DURING A DECLARED SNOW EMERGENCY THIS SIDE OF ____ EVEN NUMBERED"
+ },
+ {
+   "SignIndex": 5007,
+   "Arrow": "None",
+   "CompleteText": "Do Not Block Driveway"
+ },
+ {
+   "SignIndex": 5008,
+   "Arrow": "None",
+   "CompleteText": "WARNING PRIVATE PARKING LOT UNAUTHORIZED VEHICLES SUBJECT TO TOW BY PRIVATE TOW OPERATOR"
+ },
+ {
+   "SignIndex": 5009,
+   "Arrow": "None",
+   "CompleteText": "FREE PARKING DURING DECLARED SNOW EMERGENCY ONLY. VEHICLES LEFT 24HRS PAST EMERGENCY WILL BE TOWED AT OWNERS EXPENSE"
+ },
+ {
+   "SignIndex": 5010,
+   "Arrow": "Both",
+   "CompleteText": "Reserved Parking (Handicap)"
+ },
+ {
+   "SignIndex": 5011,
+   "Arrow": "None",
+   "CompleteText": "PARK OPPOSITE SIDE 7PM SUN - 7AM MON STREET CLEANING"
+ },
+ {
+   "SignIndex": 5012,
+   "Arrow": "None",
+   "CompleteText": "VEHICLES IN EXCESS OF 10,000LBS PROHIBITED FROM PARKING ON THIS BLOCK"
+ },
+ {
+   "SignIndex": 5013,
+   "Arrow": "None",
+   "CompleteText": "SNOW EMERGENCY NO PARKING CITY OF ALBANY EVEN/ODD PARKING ALL ROADS DURING SNOW EMERGENCY INFO 476-SNOW"
+ },
+ {
+   "SignIndex": 5014,
+   "Arrow": "None",
+   "CompleteText": "FIRE LANE NO PARKING OR STANDING"
+ },
+ {
+   "SignIndex": 5015,
+   "Arrow": "None",
+   "CompleteText": "RESERVED PARKING COURT OF APPEALS"
+ },
+ {
+   "SignIndex": 5016,
+   "Arrow": "None",
+   "CompleteText": "Reserved Parking (Handicap)"
+ },
+ {
+   "SignIndex": 5017,
+   "Arrow": "None",
+   "CompleteText": "PARKING FOR MAYOR ONLY"
+ },
+ {
+   "SignIndex": 5018,
+   "Arrow": "Left",
+   "CompleteText": "Tow-Away Zone"
+ },
+ {
+   "SignIndex": 5019,
+   "Arrow": "None",
+   "CompleteText": "POLICE VEHICLES DCJS BUSINESS USE ONLY"
+ }
+]
