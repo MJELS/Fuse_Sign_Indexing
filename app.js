@@ -1,14 +1,3 @@
-//attempting to figure out how to take the two index tables and add together.
-//may need major re-organization
-
-//table with first 1000 items
-// const indexTable1 =
-//   "https://services3.arcgis.com/sNauqkn10AAheH0G/ArcGIS/rest/services/SignIndex_for_arcOnline/FeatureServer/0/query?where=OBJECTID+%3C1000&objectIds=&time=&resultType=none&outFields=SignIndex%2C+Arrow%2C+CompleteText&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=none&f=pjson&token=";
-//table with second 1000 items
-// const indexTable2 =
-//   "https://services3.arcgis.com/sNauqkn10AAheH0G/ArcGIS/rest/services/SignIndex_for_arcOnline/FeatureServer/0/query?where=OBJECTID+%3E+999&objectIds=&time=&resultType=none&outFields=SignIndex%2C+Arrow%2C+CompleteText&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=none&f=pjson&token=";
-//const sourceList = (indexTable1, indexTable2);
-
 //init
 const signTable = getTables();
 
@@ -83,7 +72,7 @@ async function createFuse(elementId) {
         />
     </div>
     `;
-    cardDiv.innerHTML = card
+    cardDiv.innerHTML = card;
     galleryDiv.appendChild(cardDiv);
   });
   //TO_DO galleryDiv.innerHTML= String of html of all cards together
