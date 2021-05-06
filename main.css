@@ -28,6 +28,6 @@ body {
   width: 100%;
   display: flex;
   flex-flow: row wrap;
-  align-items: stretch;
+  align-items: flex-start;
   align-content: space-between;
 }
