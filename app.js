@@ -66,21 +66,21 @@ async function createFuse(elementId) {
   results.forEach(function (element) {
     const cardDiv = document.createElement("result-card");
     const card = `
-    <div id="result-card">
+    <div id="result-card" class="card">
       <div id="card-attributes">
-        <h4 id="sign-index">Sign Index: ${element.item.SignIndex}</h4>
-        <h4 id="complete-text">
-          Complete Text: ${element.item.CompleteText}
-        </h4>
-        <h4 id="arrow-direction">Arrow Direction: ${element.item.Arrow}</h4>
+        <div id="sign-index"><strong>Sign Index:</strong> ${element.item.SignIndex}</div>
+        <div id="complete-text">
+        <br />
+        <strong>Complete Text:</strong> ${element.item.CompleteText}
+        </div>
+        <br />
+        <div id="arrow-direction"><strong>Arrow Direction:</strong> ${element.item.Arrow}</div>
       </div>
-      <div id="card-image">
-        <img
+      <br />
+        <img class="image"
           src="https://3d.idacq.com/projects/2018/Alb/Sign_Images/${element.item.SignIndex}.jpg"
           alt=""
-          maxwidth="50"
         />
-      </div>
     </div>
     `;
     cardDiv.innerHTML = card
