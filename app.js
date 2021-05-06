@@ -62,9 +62,10 @@ async function createFuse(elementId) {
   console.log(results);
   //const list = document.createElement("ul");    try starting with it already created
   const galleryDiv = document.querySelector("#results-gallery");
+  galleryDiv.innerHTML = "";
   results.forEach(function (element) {
     const cardDiv = document.createElement("result-card");
-    cardDiv.innerHTML = ```
+    const card = `
     <div id="result-card">
       <div id="card-attributes">
         <h4 id="sign-index">Sign Index: ${element.item.SignIndex}</h4>
@@ -81,7 +82,8 @@ async function createFuse(elementId) {
         />
       </div>
     </div>
-```;
+    `;
+    cardDiv.innerHTML = card
     galleryDiv.appendChild(cardDiv);
   });
   //TO_DO galleryDiv.innerHTML= String of html of all cards together
