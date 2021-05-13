@@ -42,7 +42,7 @@ async function createFuse(elementId) {
     findAllMatches: true,
     minMatchCharLength: 2,
     // location: 0,
-    threshold: 0.3,
+    threshold: 0.6,
     distance: 1000,
     // useExtendedSearch: false,
     ignoreLocation: false,
