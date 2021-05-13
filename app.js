@@ -42,10 +42,10 @@ async function createFuse(elementId) {
     findAllMatches: true,
     minMatchCharLength: 2,
     // location: 0,
-    threshold: 0.6,
-    // distance: 100,
+    threshold: 0.3,
+    distance: 1000,
     // useExtendedSearch: false,
-    //ignoreLocation: false,
+    ignoreLocation: false,
     // ignoreFieldNorm: false,
     keys: [
       { name: "CompleteText", weight: 0.9 },
@@ -55,10 +55,19 @@ async function createFuse(elementId) {
   };
   const data = await signTable;
   const fuse = new Fuse(data, options);
-  const pattern = document.getElementById(elementId).value;
+  const search = document.getElementById(elementId).value;
+  const searchSpace = search.replace("-", " ");
+  const searchList = searchSpace.split(" ");
+  const searchObj = {};
+  const searchArray = [];
+  searchList.forEach((term) => {
+    let obj = { CompleteText: term };
+    searchArray.push(obj);
+  });
+  searchObj.$and = [...searchArray];
   console.log(fuse);
-  console.log(pattern);
-  const results = fuse.search(pattern);
+  //console.log(pattern);
+  const results = fuse.search(searchObj);
   console.log(results);
   const galleryDiv = document.querySelector("#results-gallery");
   galleryDiv.innerHTML = "";
