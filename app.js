@@ -47,11 +47,7 @@ async function createFuse(elementId) {
     // useExtendedSearch: false,
     ignoreLocation: false,
     // ignoreFieldNorm: false,
-    keys: [
-      { name: "CompleteText", weight: 0.9 },
-      { name: "Arrow", weight: 0.5 },
-      { name: "SignIndex", weight: 0.3 },
-    ],
+    keys: ["CompleteText"],
   };
   const data = await signTable;
   const fuse = new Fuse(data, options);
