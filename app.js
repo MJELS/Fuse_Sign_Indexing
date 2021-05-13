@@ -1,10 +1,17 @@
 //init
 const signTable = getTables();
 
-//Event Listener
-document.getElementById("searchText").addEventListener("keyup", function () {
+//Event Listener submit button
+function submitSearch() {
   createFuse("searchText");
-});
+}
+
+// //clipboard permissions
+// navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
+//   if (result.state == "granted" || result.state == "prompt") {
+//     /* write to the clipboard now */
+//   }
+// });
 
 // Fetch the JSON File and write it to an object
 async function getTables() {
@@ -29,18 +36,22 @@ async function getTables() {
 async function createFuse(elementId) {
   const options = {
     // isCaseSensitive: false,
-    includeScore: true,
+    // includeScore: false,
     // shouldSort: true,
     // includeMatches: false,
-    // findAllMatches: false,
-    // minMatchCharLength: 1,
+    findAllMatches: true,
+    minMatchCharLength: 2,
     // location: 0,
-    threshold: 0.3,
+    threshold: 0.6,
     // distance: 100,
     // useExtendedSearch: false,
-    ignoreLocation: true,
+    //ignoreLocation: false,
     // ignoreFieldNorm: false,
-    keys: ["SignIndex", "Arrow", "CompleteText"],
+    keys: [
+      { name: "CompleteText", weight: 0.9 },
+      { name: "Arrow", weight: 0.5 },
+      { name: "SignIndex", weight: 0.3 },
+    ],
   };
   const data = await signTable;
   const fuse = new Fuse(data, options);
@@ -49,19 +60,17 @@ async function createFuse(elementId) {
   console.log(pattern);
   const results = fuse.search(pattern);
   console.log(results);
-  //const list = document.createElement("ul");    try starting with it already created
   const galleryDiv = document.querySelector("#results-gallery");
   galleryDiv.innerHTML = "";
   results.forEach(function (element) {
     const cardDiv = document.createElement("result-card");
     const card = `
-    <div id="result-card" class="card">
+    <div id="result-card${element.item.SignIndex}" class="card">
       <div id="card-attributes">
-        <div id="sign-index"><strong>Sign Index:</strong> ${element.item.SignIndex}</div>
-        <div id="complete-text">
+        <div id="cardsign-index"><strong>Sign Index:</strong> ${element.item.SignIndex}</div>
+        <button id= "button-${element.item.SignIndex}" >Copy Index #</button>
         <br />
-        <strong>Complete Text:</strong> ${element.item.CompleteText}
-        </div>
+        <div id="complete-text"><strong>Complete Text:</strong> ${element.item.CompleteText}</div>
         <br />
         <div id="arrow-direction"><strong>Arrow Direction:</strong> ${element.item.Arrow}</div>
       </div>
@@ -74,7 +83,9 @@ async function createFuse(elementId) {
     `;
     cardDiv.innerHTML = card;
     galleryDiv.appendChild(cardDiv);
+    const button = document.getElementById(`button-${element.item.SignIndex}`);
+    button.addEventListener("click", function () {
+      navigator.clipboard.writeText(element.item.SignIndex);
+    });
   });
-  //TO_DO galleryDiv.innerHTML= String of html of all cards together
-  //results.forEach();
 }
