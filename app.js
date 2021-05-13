@@ -40,7 +40,7 @@ async function createFuse(elementId) {
     // shouldSort: true,
     // includeMatches: false,
     findAllMatches: true,
-    minMatchCharLength: 2,
+    minMatchCharLength: 1,
     // location: 0,
     threshold: 0.6,
     distance: 1000,
@@ -62,7 +62,6 @@ async function createFuse(elementId) {
   });
   searchObj.$and = [...searchArray];
   console.log(fuse);
-  //console.log(pattern);
   const results = fuse.search(searchObj);
   console.log(results);
   const galleryDiv = document.querySelector("#results-gallery");
