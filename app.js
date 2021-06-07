@@ -1,17 +1,26 @@
 //init
 const signTable = getTables();
 
-//Event Listener submit button
+//submit button triggers search
 function submitSearch() {
   createFuse("searchText");
 }
 
-// //clipboard permissions
-// navigator.permissions.query({ name: "clipboard-write" }).then((result) => {
-//   if (result.state == "granted" || result.state == "prompt") {
-//     /* write to the clipboard now */
-//   }
-// });
+// //add event listener
+// const input = document.querySelector("input");
+// const log = document.getElementById("values");
+
+// input.addEventListener("input", debounce);
+
+// //testing debounce event listener
+// const debounce = (func, wait) => {
+//   let timeout;
+//   return function submitSearch() {
+//     const later = () => {
+//       clearTimeout(timeout);
+//     };
+//   };
+// };
 
 // Fetch the JSON File and write it to an object
 async function getTables() {
@@ -46,7 +55,7 @@ async function createFuse(elementId) {
     distance: 1000,
     // useExtendedSearch: false,
     ignoreLocation: false,
-    // ignoreFieldNorm: false,
+    ignoreFieldNorm: true,
     keys: ["CompleteText"],
   };
   const data = await signTable;
@@ -54,9 +63,52 @@ async function createFuse(elementId) {
   const search = document.getElementById(elementId).value;
   const searchSpace = search.replace("-", " ");
   const searchList = searchSpace.split(" ");
+  //ReOrganize searchlist array
+  const searchListRefined = [];
+  searchList.forEach((term, index) => {
+    if (
+      //Skipping AM/PM or entries less than one character in length
+      term.toLowerCase() === "am" ||
+      term.toLowerCase() === "pm" ||
+      term.length < 1
+    ) {
+      return;
+    }
+    if (
+      //if the entry does not contain a digit, add it to the refined list
+      //everything else left will contain a digit
+      /\d/.test(term) == "False") {
+      searchListRefined.push(term);
+      return;
+    } else if (
+      //if it's not the last entry and the next entry is am or pm, concatenate this and next and wrap in quotes
+      index < searchList.length - 1) {
+      let quote = '"';
+      let nextValue = searchList[index + 1];
+      if (
+        nextValue.toLowerCase() === "am" ||
+        nextValue.toLowerCase() === "pm"
+      ) {
+        let newTerm = quote + term + nextValue + quote;
+        searchListRefined.push(newTerm);
+        return;
+      }
+    }
+    if (
+      //if longer than two characters and contains digit- wrap in quotes
+      term.length > 2 && /\d/.test(term)) {
+      let quote = '"';
+      let exactSearch = quote + term + quote;
+      console.log(exactSearch);
+      searchListRefined.push(exactSearch);
+    } else {
+      searchListRefined.push(term);
+    }
+  });
+  console.log(searchListRefined);
   const searchObj = {};
   const searchArray = [];
-  searchList.forEach((term) => {
+  searchListRefined.forEach((term) => {
     let obj = { CompleteText: term };
     searchArray.push(obj);
   });
